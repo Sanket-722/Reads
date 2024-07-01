@@ -42,4 +42,20 @@ A collection of solo audit reports From Contest or By WEB3 security experts. So 
 
 8. [[WP-H3] L1Migrator.sol#migrateETH() Improper implementation of L1Migrator causing migrateETH() always reverts, can lead to ETH in BridgeMinter getting stuck in the contract](https://github.com/code-423n4/2022-01-livepeer-findings/issues/198)
 
+9. [[M] Gas stipend for external call might be insufficient and lead to stuck ETH](https://solodit.xyz/issues/m-02-gas-stipend-for-external-call-might-be-insufficient-and-lead-to-stuck-eth-pashov-none-zerem-markdown)
+
+10. [[M] Any native assets in the LiFiDiamond can be took by anyone](https://github.com/code-423n4/2022-03-lifinance-findings/issues/16)
+
+11. [[M] Ether can be locked in the `PoolFactory` contract without a way to retrieve it](https://solodit.xyz/issues/m-01-ether-can-be-locked-in-the-poolfactory-contract-without-a-way-to-retrieve-it-code4rena-sublime-sublime-contest-git)
+
+12. [Stop Using Solidity's transfer() Now](https://consensys.io/diligence/blog/2019/09/stop-using-soliditys-transfer-now/)
+
+13. [[M] BLOCK_PERIOD is incorrect](https://github.com/code-423n4/2022-10-zksync-findings/issues/259)
+
+14. [keccak123 - abi.encodePacked Allows Hash Collision](https://github.com/sherlock-audit/2022-10-nftport-judging/issues/118)
+
+15. [XSS via SVG Construction contract](https://github.com/code-423n4/2022-01-timeswap-findings/issues/131)
+
+16. ['onlyEOAEx' modifier that ensures call is from EOA might not hold true in the future](https://github.com/sherlock-audit/2023-02-blueberry-judging/issues/21)
+
 
