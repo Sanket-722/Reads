@@ -21,41 +21,30 @@ A collection of solo audit reports From Contest or By WEB3 security experts. So 
 
 ### DOS
 1. [[M] Possible DOS in 'allVestingRecipients()' function because of unbounded gas consumption.](https://github.com/code-423n4/2022-09-vtvl-findings/issues/372)
+2. [[M] [Denial-of-Service] Contract Owner Could Block Users From Withdrawing Their Strike](https://solodit.xyz/issues/m-06-denial-of-service-contract-owner-could-block-users-from-withdrawing-their-strike-code4rena-putty-putty-contest-git)
+3. [[H] Denial of Service](https://solodit.xyz/issues/h-02-denial-of-service-code4rena-hubble-hubble-contest-git)
+4. [[M] Malicious users could block liquidation or perform DOS](https://solodit.xyz/issues/m-4-malicious-users-could-block-liquidation-or-perform-dos-sherlock-notional-update-5-git)
+5. [Vault can be placed back into vulnerable low supply state](https://solodit.xyz/issues/vault-can-be-placed-back-into-vulnerable-low-supply-state-openzeppelin-pods-finance-ethereum-volatility-vault-audit-2-markdown)
+6. [Potential funds locked due low token decimal and long stream duration](https://solodit.xyz/issues/potential-funds-locked-due-low-token-decimal-and-long-stream-duration-spearbit-locke-pdf)
+7. [[M] Unhandled chainlink revert would lock all price oracle access](https://solodit.xyz/issues/m-09-unhandled-chainlink-revert-would-lock-all-price-oracle-access-code4rena-juicebox-juicebox-v2-contest-git)
 
 ### Conditional
 1. [[M] !_account.isContract() can be bypassed](https://github.com/code-423n4/2022-04-jpegd-findings/issues/128)
 
 ### Functional 
 1. [[M] Unsafe call to `ERC20::transfer` can result in stuck funds.](https://solodit.xyz/issues/m-01-unsafe-call-to-erc20transfer-can-result-in-stuck-funds-pashov-none-zerem-markdown) 
-
 2. [[H] First vault depositor can steal subsequent depositors’ tokens.](https://solodit.xyz/issues/h-02-first-vault-depositor-can-steal-subsequent-depositors-tokens-pashov-none-yield-ninja-markdown_)
-
 3. [[M] UniswapV3’s path issue for swapExactOutput](https://solodit.xyz/issues/m-06-uniswapv3s-path-issue-for-swapexactoutput-code4rena-mellow-protocol-mellow-protocol-contest-git)
-
 4. [[M] https://solodit.xyz/auth?next=/issues/m-01-code4rena-blockswap-blockswap-formal-verification-contest-with-certora-git ](https://solodit.xyz/auth?next=/issues/m-01-code4rena-blockswap-blockswap-formal-verification-contest-with-certora-git)
-
 5. [[M] Cancellation refunds should return tokens to order creator, not recipient](https://solodit.xyz/issues/m-3-cancellation-refunds-should-return-tokens-to-order-creator-not-recipient-sherlock-none-dinari-git)
-
 6. [[M] M-2: Because of rounding issues, users may not be able to withdraw airdrop tokens if their claim has been adjust()'ed upwards](https://solodit.xyz/issues/m-2-because-of-rounding-issues-users-may-not-be-able-to-withdraw-airdrop-tokens-if-their-claim-has-been-adjusted-upwards-sherlock-none-tokensoft-git)
-
 7. [[M] Gas stipend for external call might be insufficient and lead to stuck ETH](https://solodit.xyz/issues/m-02-gas-stipend-for-external-call-might-be-insufficient-and-lead-to-stuck-eth-pashov-none-zerem-markdown)
-
 8. [[WP-H3] L1Migrator.sol#migrateETH() Improper implementation of L1Migrator causing migrateETH() always reverts, can lead to ETH in BridgeMinter getting stuck in the contract](https://github.com/code-423n4/2022-01-livepeer-findings/issues/198)
-
 9. [[M] Gas stipend for external call might be insufficient and lead to stuck ETH](https://solodit.xyz/issues/m-02-gas-stipend-for-external-call-might-be-insufficient-and-lead-to-stuck-eth-pashov-none-zerem-markdown)
-
 10. [[M] Any native assets in the LiFiDiamond can be took by anyone](https://github.com/code-423n4/2022-03-lifinance-findings/issues/16)
-
 11. [[M] Ether can be locked in the `PoolFactory` contract without a way to retrieve it](https://solodit.xyz/issues/m-01-ether-can-be-locked-in-the-poolfactory-contract-without-a-way-to-retrieve-it-code4rena-sublime-sublime-contest-git)
-
 12. [Stop Using Solidity's transfer() Now](https://consensys.io/diligence/blog/2019/09/stop-using-soliditys-transfer-now/)
-
 13. [[M] BLOCK_PERIOD is incorrect](https://github.com/code-423n4/2022-10-zksync-findings/issues/259)
-
 14. [keccak123 - abi.encodePacked Allows Hash Collision](https://github.com/sherlock-audit/2022-10-nftport-judging/issues/118)
-
 15. [XSS via SVG Construction contract](https://github.com/code-423n4/2022-01-timeswap-findings/issues/131)
-
 16. ['onlyEOAEx' modifier that ensures call is from EOA might not hold true in the future](https://github.com/sherlock-audit/2023-02-blueberry-judging/issues/21)
-
-
