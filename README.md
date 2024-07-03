@@ -48,3 +48,13 @@ A collection of solo audit reports From Contest or By WEB3 security experts. So 
 14. [keccak123 - abi.encodePacked Allows Hash Collision](https://github.com/sherlock-audit/2022-10-nftport-judging/issues/118)
 15. [XSS via SVG Construction contract](https://github.com/code-423n4/2022-01-timeswap-findings/issues/131)
 16. ['onlyEOAEx' modifier that ensures call is from EOA might not hold true in the future](https://github.com/sherlock-audit/2023-02-blueberry-judging/issues/21)
+
+### Logical
+1. [getUserInfo() returns incorrect values for locked and stakedAmount ](https://github.com/sherlock-audit/2022-10-union-finance-judging/issues/80)
+2. [Maximal approvals remain for the AssetManager's adapters and tokens after removal](https://github.com/sherlock-audit/2022-10-union-finance-judging/issues/36)
+
+### Swap 
+1. [[M] `UNISWAP_FEE` is hardcoded which will lead to significant losses compared to optimal routing](https://solodit.xyz/issues/m-02-uniswap_fee-is-hardcoded-which-will-lead-to-significant-losses-compared-to-optimal-routing-code4rena-sturdy-sturdy-contest-git_)
+2. [[M] `SWAP_ROUTER` in `AutoPxGmx.sol` is hardcoded and not compatible on Avalanche](https://solodit.xyz/issues/m-02-uniswap_fee-is-hardcoded-which-will-lead-to-significant-losses-compared-to-optimal-routing-code4rena-sturdy-sturdy-contest-git_)
+3. [[M] AddLiquidity and decreaseLiquidity missing slippage protection](https://solodit.xyz/issues/m-15-addliquidity-and-decreaseliquidity-missing-slippage-protection-code4rena-particle-protocol-particle-protocol-git)
+4. [[M] Duplicate LP token could lead to incorrect reward distribution](https://github.com/code-423n4/2022-05-aura-findings/issues/124)
