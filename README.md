@@ -58,3 +58,4 @@ A collection of solo audit reports From Contest or By WEB3 security experts. So 
 2. [[M] `SWAP_ROUTER` in `AutoPxGmx.sol` is hardcoded and not compatible on Avalanche](https://solodit.xyz/issues/m-02-uniswap_fee-is-hardcoded-which-will-lead-to-significant-losses-compared-to-optimal-routing-code4rena-sturdy-sturdy-contest-git_)
 3. [[M] AddLiquidity and decreaseLiquidity missing slippage protection](https://solodit.xyz/issues/m-15-addliquidity-and-decreaseliquidity-missing-slippage-protection-code4rena-particle-protocol-particle-protocol-git)
 4. [[M] Duplicate LP token could lead to incorrect reward distribution](https://github.com/code-423n4/2022-05-aura-findings/issues/124)
+5. [Missing ```fromToken != toToken``` check in ```MarginRouter.crossSwapExactTokensForTokens/MarginRouter.crossSwapTokensForExactTokens```](https://github.com/code-423n4/2021-04-marginswap-findings/issues/20)
