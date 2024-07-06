@@ -67,3 +67,4 @@ A collection of solo audit reports From Contest or By WEB3 security experts. So 
 4. [ChainlinkAdapterOracle use BTC/USD chainlink oracle to price WBTC which is problematic if WBTC depegs](https://github.com/sherlock-audit/2023-02-blueberry-judging/issues/9)
 5. [```.latestRoundData()``` does not update the oracle - ```ExchangeRate.sol```](https://github.com/code-423n4/2021-08-notional-findings/issues/18)
 6. [MISUSE OF AN ORACLE](https://solodit.xyz/issues/misuse-of-an-oracle-halborn-planet-finance-pdf)
+7. [ChainlinkAdapterOracle will return the wrong price for asset if underlying aggregator hits minAnswer](https://github.com/sherlock-audit/2023-02-blueberry-judging/issues/18)
