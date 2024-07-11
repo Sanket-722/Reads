@@ -77,4 +77,6 @@ A collection of solo audit reports From Contest or By WEB3 security experts. So 
 ### Math
 1. [Permanent freeze of vested tokens due to overflow in _baseVestedAmount](https://github.com/code-423n4/2022-09-vtvl-findings/issues/95)
 2. [Lack of sanity check on _initialTokenSupply and _initialTokenPrice can lead to a seller losing his NFT](https://github.com/code-423n4/2022-06-nibbl-findings/issues/24)
-3. [ctf_sec - Unsafe downcasting arithmetic operation in UserManager related contract and in UToken.sol](https://github.com/sherlock-audit/2022-10-union-finance-judging/issues/96)
+3. [Unsafe downcasting arithmetic operation in UserManager related contract and in UToken.sol](https://github.com/sherlock-audit/2022-10-union-finance-judging/issues/96)
+4. [FRAX admin can adjust fee rate to harm Napier and its users ](https://github.com/sherlock-audit/2024-01-napier-judging/issues/108)
+5. [Incorrect unlockTime can DOS withdrawGovernanceAsset](https://github.com/code-423n4/2022-01-behodler-findings/issues/228)
