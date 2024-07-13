@@ -86,3 +86,6 @@ A collection of solo audit reports From Contest or By WEB3 security experts. So 
 
 ### Uniswap 
 1. [block.timestamp or deadline ](https://solodit.xyz/issues/m-06-blocktimestamp-or-deadline-code4rena-amun-amun-contest-git)
+
+### Access Control
+1. [Any public vault without a delegate can be drained](https://github.com/sherlock-audit/2022-10-astaria-judging/issues/69)
