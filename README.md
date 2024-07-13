@@ -1,4 +1,4 @@
-![WhatsApp Image 2024-03-16 at 6 04 04 PM](https://github.com/Sanketx0722/solo-audit-reports/assets/59367143/f43cc84a-b567-47ff-9e97-1ff913bd39af)
+![Screenshot from 2024-07-13 19-54-08](https://github.com/user-attachments/assets/6a74f7f6-394c-4986-9135-e43861e2b925)
 
 # Audit Reports
 A collection of solo audit reports From Contest or By WEB3 security experts. So Its collection of Reports I daily read and I will try to make it orginized as much as possible.
