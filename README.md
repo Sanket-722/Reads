@@ -89,3 +89,4 @@ A collection of solo audit reports From Contest or By WEB3 security experts. So 
 
 ### Access Control
 1. [Any public vault without a delegate can be drained](https://github.com/sherlock-audit/2022-10-astaria-judging/issues/69)
+2. [Malicious actors can lock all FEI and TRIBE in the GenesisGroup](https://solodit.xyz/issues/m01-malicious-actors-can-lock-all-fei-and-tribe-in-the-genesisgroup-openzeppelin-fei-protocol-audit-markdown)
