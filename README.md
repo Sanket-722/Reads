@@ -3,7 +3,7 @@
 # Audit Reports
 A collection of solo audit reports From Contest or By WEB3 security experts. So Its collection of Reports I daily read and I will try to make it orginized as much as possible.
 
-# Reads 
+# Solidity Reads 
 ### Rug Pull :
 1. [[M] Schain owners can rug pull users' funds](https://solodit.xyz/issues/m-05-schain-owners-can-rug-pull-users-funds-code4rena-skale-skale-contest-git)
 2. [[M] Centralisation risk: admin role of `TokenManagerEth` can rug pull all Eth from the bridge](https://solodit.xyz/issues/m-06-centralisation-risk-admin-role-of-tokenmanagereth-can-rug-pull-all-eth-from-the-bridge-code4rena-skale-skale-contest-git)
@@ -92,3 +92,8 @@ A collection of solo audit reports From Contest or By WEB3 security experts. So 
 2. [Malicious actors can lock all FEI and TRIBE in the GenesisGroup](https://solodit.xyz/issues/m01-malicious-actors-can-lock-all-fei-and-tribe-in-the-genesisgroup-openzeppelin-fei-protocol-audit-markdown)
 3. [onlyOwner Role Can Unintentionally Influence "settleAuction()"](https://solodit.xyz/issues/m-03-onlyowner-role-can-unintentionally-influence-settleauction-code4rena-kuiper-kuiper-contest-git)
 4. [[M]Hackers can deploy token with respective name as the stable one to impersonate the stable token](https://solodit.xyz/issues/m-03-hackers-can-deploy-token-with-respective-name-as-the-stable-one-to-impersonate-the-stable-token-code4rena-canto-canto-git)
+
+# Go Reads 
+
+### Cosmos 
+1. [Incorrect Signers](https://secure-contracts.com/not-so-smart-contracts/cosmos/incorrect_getsigners/)
