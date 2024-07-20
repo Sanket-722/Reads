@@ -95,5 +95,6 @@ A collection of solo audit reports From Contest or By WEB3 security experts. So 
 
 # Go Reads 
 
-### Cosmos 
+### Cosmos SDK
 1. [Incorrect Signers](https://secure-contracts.com/not-so-smart-contracts/cosmos/incorrect_getsigners/)
+2. [Non-determinism](https://secure-contracts.com/not-so-smart-contracts/cosmos/non_determinism/index.html)
