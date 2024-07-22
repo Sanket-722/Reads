@@ -98,3 +98,5 @@ A collection of solo audit reports From Contest or By WEB3 security experts. So 
 ### Cosmos SDK
 1. [Incorrect Signers](https://secure-contracts.com/not-so-smart-contracts/cosmos/incorrect_getsigners/)
 2. [Non-determinism](https://secure-contracts.com/not-so-smart-contracts/cosmos/non_determinism/index.html)
+3. [Proposal: deterministic execution](https://github.com/golang/go/issues/33702)
+4. [Non-deterministic rank calculation](https://github.com/cybercongress/go-cyber/issues/66)
