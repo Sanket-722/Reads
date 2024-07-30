@@ -18,6 +18,8 @@ A collection of solo audit reports From Contest or By WEB3 security experts. So 
 
 ### NFT 
 1. [[M] Use safeTransferFrom instead of transferFrom for ERC721 transfers](https://solodit.xyz/issues/m-09-use-safetransferfrom-instead-of-transferfrom-for-erc721-transfers-code4rena-cally-cally-contest-git)
+2. [QSP-1 Max supply of 500 is not enforced at the token level](https://certificate.quantstamp.com/full/sele-ct-x-storm-x-nft.pdf)
+3. [QSP-2 Minter can burn token on any address](https://certificate.quantstamp.com/full/sele-ct-x-storm-x-nft.pdf)
 
 ### DOS
 1. [[M] Possible DOS in 'allVestingRecipients()' function because of unbounded gas consumption.](https://github.com/code-423n4/2022-09-vtvl-findings/issues/372)
