@@ -73,6 +73,7 @@ A collection of solo audit reports From Contest or By WEB3 security experts. So 
 6. [MISUSE OF AN ORACLE](https://solodit.xyz/issues/misuse-of-an-oracle-halborn-planet-finance-pdf)
 7. [ChainlinkAdapterOracle will return the wrong price for asset if underlying aggregator hits minAnswer](https://github.com/sherlock-audit/2023-02-blueberry-judging/issues/18)
 8. [Oracle periodSize = 0 which is as same as not using any oracle.](https://github.com/code-423n4/2022-06-canto-v2-findings/issues/8)
+9. [latestRoundData() has no check for round completeness](https://solodit.xyz/issues/m-7-latestrounddata-has-no-check-for-round-completeness-sherlock-isomorph-isomorph-git)
 
 ### Decimal
 1. [Interest accrued could be zero for small decimal tokens](https://github.com/code-423n4/2022-03-sublime-findings/issues/10)
