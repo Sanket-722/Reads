@@ -1,7 +1,7 @@
 ![Screenshot from 2024-07-13 19-54-08](https://github.com/user-attachments/assets/6a74f7f6-394c-4986-9135-e43861e2b925)
 
-# Audit Reports
-A collection of solo audit reports From Contest or By WEB3 security experts. So Its collection of Reports I daily read and I will try to make it orginized as much as possible.
+# Reports
+Simply want to collect reports which i read day in and out.
 
 # Solidity Reads 
 ### Rug Pull :
