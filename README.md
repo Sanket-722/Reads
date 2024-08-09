@@ -1,4 +1,4 @@
-![Screenshot from 2024-07-13 19-54-08](https://github.com/user-attachments/assets/6a74f7f6-394c-4986-9135-e43861e2b925)
+<img src="https://github.com/user-attachments/assets/6a74f7f6-394c-4986-9135-e43861e2b925" alt="Reading_Boy" width="500" height="300"/>
 
 # Reports
 Simply want to collect reports which i read day in and out.
@@ -30,7 +30,6 @@ Simply want to collect reports which i read day in and out.
 6. [Potential funds locked due low token decimal and long stream duration](https://solodit.xyz/issues/potential-funds-locked-due-low-token-decimal-and-long-stream-duration-spearbit-locke-pdf)
 7. [[M] Unhandled chainlink revert would lock all price oracle access](https://solodit.xyz/issues/m-09-unhandled-chainlink-revert-would-lock-all-price-oracle-access-code4rena-juicebox-juicebox-v2-contest-git)
 8. [H] [PEUSD.CONVERTTOPEUSD() CALL COULD CAUSE A DENIAL OF SERVICE IN THE DISTRIBUTEREWARDS FUNCTION](https://github.com/HalbornSecurity/PublicReports/blob/master/Solidity%20Smart%20Contract%20Audits/Lybra_Finance_V2_Smart_Contract_Security_Assessment_Report_Halborn_Final.pdf)
-9. 
 
 ### Conditional
 1. [[M] !_account.isContract() can be bypassed](https://github.com/code-423n4/2022-04-jpegd-findings/issues/128)
@@ -83,6 +82,9 @@ Simply want to collect reports which i read day in and out.
 ### Decimal
 1. [Interest accrued could be zero for small decimal tokens](https://github.com/code-423n4/2022-03-sublime-findings/issues/10)
 
+### Dynamic Thinking 
+1. [The user index is not updated if the computed reward is zero](https://github.com/SCV-Security/PublicReports/blob/19e1f50e43251f8feb07434e5c3a1067d0070454/Eris%20Protocol%2FERIS%20-%20Contracts%20ve3%20-%20Audit%20Report%20v1.0.pdf)
+2. 
 
 ### Math
 1. [Permanent freeze of vested tokens due to overflow in _baseVestedAmount](https://github.com/code-423n4/2022-09-vtvl-findings/issues/95)
