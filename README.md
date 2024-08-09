@@ -83,8 +83,7 @@ Simply want to collect reports which i read day in and out.
 1. [Interest accrued could be zero for small decimal tokens](https://github.com/code-423n4/2022-03-sublime-findings/issues/10)
 
 ### Dynamic Thinking 
-1. [The user index is not updated if the computed reward is zero](https://github.com/SCV-Security/PublicReports/blob/19e1f50e43251f8feb07434e5c3a1067d0070454/Eris%20Protocol%2FERIS%20-%20Contracts%20ve3%20-%20Audit%20Report%20v1.0.pdf)
-2. 
+
 
 ### Math
 1. [Permanent freeze of vested tokens due to overflow in _baseVestedAmount](https://github.com/code-423n4/2022-09-vtvl-findings/issues/95)
@@ -95,6 +94,8 @@ Simply want to collect reports which i read day in and out.
 
 ### Tokens
 1. [AutoleverageBase: Must approve 0](https://github.com/code-423n4/2022-05-alchemix-findings/issues/144)
+
+### Rounding
 
 ### Uniswap 
 1. [block.timestamp or deadline ](https://solodit.xyz/issues/m-06-blocktimestamp-or-deadline-code4rena-amun-amun-contest-git)
@@ -126,3 +127,12 @@ Simply want to collect reports which i read day in and out.
 
 ### Math 
 1. [Incorrect implementation of integer math functions](https://solodit.xyz/issues/incorrect-implementation-of-integer-math-functions-trailofbits-none-ochain-labs-arbos-30-nitro-upgrade-pdf)
+
+
+# Rust Reads
+
+### Dynamic Thinking 
+1. [The user index is not updated if the computed reward is zero](https://github.com/SCV-Security/PublicReports/blob/19e1f50e43251f8feb07434e5c3a1067d0070454/Eris%20Protocol%2FERIS%20-%20Contracts%20ve3%20-%20Audit%20Report%20v1.0.pdf)
+
+### Rounding
+1. [Users might receive more funds due to rounding issue](https://github.com/SCV-Security/PublicReports/blob/19e1f50e43251f8feb07434e5c3a1067d0070454/Eris%20Protocol%2FERIS%20-%20Contracts%20ve3%20-%20Audit%20Report%20v1.0.pdf)
