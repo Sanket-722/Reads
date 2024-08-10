@@ -97,8 +97,9 @@ Simply want to collect reports which i read day in and out.
 
 ### Rounding
 
-### Uniswap 
+### AMM
 1. [block.timestamp or deadline ](https://solodit.xyz/issues/m-06-blocktimestamp-or-deadline-code4rena-amun-amun-contest-git)
+2. [Existing token hooks are replaceable while adding new](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Burve%20Smart%20Contracts%20Audit%20Report%20-%20QuillAudits.pdf)
 
 ### Access Control
 1. [Any public vault without a delegate can be drained](https://github.com/sherlock-audit/2022-10-astaria-judging/issues/69)
@@ -115,6 +116,8 @@ Simply want to collect reports which i read day in and out.
 
 ### Other 
 1. [Incorrect hardcoded address](https://solodit.xyz/issues/incorrect-hardcoded-address-mixbytes-none-barter-dao-markdown)
+2. [Incorrect comparison operator while checking](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Burve%20Smart%20Contracts%20Audit%20Report%20-%20QuillAudits.pdf)
+3. 
 
    
 # Go Reads 
@@ -136,3 +139,13 @@ Simply want to collect reports which i read day in and out.
 
 ### Rounding
 1. [Users might receive more funds due to rounding issue](https://github.com/SCV-Security/PublicReports/blob/19e1f50e43251f8feb07434e5c3a1067d0070454/Eris%20Protocol%2FERIS%20-%20Contracts%20ve3%20-%20Audit%20Report%20v1.0.pdf)
+
+
+# Pentest Web3.0 Projects
+
+### Bugs to look for Pentest :
+1. [[H] Private Key Leaked in Server Logs for ETH Wallet](https://github.com/Quillhash/QuillAudit_Reports/blob/master/TWallet%20Pentest%20Audit%20Report%20-%20QuillAudits.pdf)
+2. [[H] Hardcoded Secrets, Api Keys, Private keys and more](https://github.com/Quillhash/QuillAudit_Reports/blob/master/TWallet%20Pentest%20Audit%20Report%20-%20QuillAudits.pdf)
+3. [[M] Lack of Rate Limiting](https://github.com/Quillhash/QuillAudit_Reports/blob/master/TWallet%20Pentest%20Audit%20Report%20-%20QuillAudits.pdf)
+4. [[M] Lack of Authentication in API Endpoints](https://github.com/Quillhash/QuillAudit_Reports/blob/master/TWallet%20Pentest%20Audit%20Report%20-%20QuillAudits.pdf)
+5. [[M] Id param issue in 'get_Notiﬁcation_By_Id'](https://github.com/Quillhash/QuillAudit_Reports/blob/master/TWallet%20Pentest%20Audit%20Report%20-%20QuillAudits.pdf)
