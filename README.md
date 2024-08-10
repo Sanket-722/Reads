@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/6a74f7f6-394c-4986-9135-e43861e2b925" alt="Reading_Boy" width="500" height="300"/>
+<img src="https://github.com/user-attachments/assets/6a74f7f6-394c-4986-9135-e43861e2b925" alt="Reading_Boy" width="1000" height="400"/>
 
 # Reports
 Simply want to collect reports which i read day in and out.
