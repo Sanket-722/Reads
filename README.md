@@ -124,6 +124,7 @@ Simply want to collect reports which i read day in and out.
 
 ### ERC20
 1. [Transfer token without user approval](https://github.com/Quillhash/QuillAudit_Reports/blob/master/AntiGravity%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf)
+2. [Potential locking of funds due to non standard ERC20 transfers](https://github.com/Quillhash/QuillAudit_Reports/blob/master/LivaatVerse%20Smart%20Contracts%20Audit%20Report%20-%20QuillAudits.pdf)
    
 # Go Reads 
 
