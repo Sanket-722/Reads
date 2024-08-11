@@ -67,6 +67,8 @@ Simply want to collect reports which i read day in and out.
 4. [[M] Duplicate LP token could lead to incorrect reward distribution](https://github.com/code-423n4/2022-05-aura-findings/issues/124)
 5. [Missing ```fromToken != toToken``` check in ```MarginRouter.crossSwapExactTokensForTokens/MarginRouter.crossSwapTokensForExactTokens```](https://github.com/code-423n4/2021-04-marginswap-findings/issues/20)
 6. [[H] swapTokens Function Is Unusable](https://solodit.xyz/issues/swaptokens-function-is-unusable-openzeppelin-none-radiant-riz-audit-markdown)
+7. [LP tokens can be transferred to empty address](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Eddy%20Finance%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf)
+8. 
 
 ### Oracle
 1. [_updateTwav() and _getTwav() will revert when cumulativePrice overflows](https://github.com/code-423n4/2022-06-nibbl-findings/issues/246)
@@ -84,6 +86,7 @@ Simply want to collect reports which i read day in and out.
 1. [Interest accrued could be zero for small decimal tokens](https://github.com/code-423n4/2022-03-sublime-findings/issues/10)
 
 ### Dynamic Thinking 
+1. 
 
 
 ### Math
