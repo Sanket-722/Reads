@@ -84,6 +84,9 @@ Simply want to collect reports which i read day in and out.
 
 ### Decimal
 1. [Interest accrued could be zero for small decimal tokens](https://github.com/code-423n4/2022-03-sublime-findings/issues/10)
+2. [WithdrawPeriphery uses incorrect value for MAX_BPS which will allow much higher slippage than intended](https://solodit.xyz/issues/m-4-withdrawperiphery-uses-incorrect-value-for-max_bps-which-will-allow-much-higher-slippage-than-intended-sherlock-rage-trade-rage-trade-git)
+3. [Basis points constant BPS_MAX is used as minimal fee amount requirement](https://solodit.xyz/issues/m-01-basis-points-constant-bps_max-is-used-as-minimal-fee-amount-requirement-code4rena-aave-lens-aave-lens-contest-git)
+4. 
 
 ### Dynamic Thinking 
 1. 
