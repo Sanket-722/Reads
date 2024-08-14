@@ -86,7 +86,7 @@ Simply want to collect reports which i read day in and out.
 1. [Interest accrued could be zero for small decimal tokens](https://github.com/code-423n4/2022-03-sublime-findings/issues/10)
 2. [WithdrawPeriphery uses incorrect value for MAX_BPS which will allow much higher slippage than intended](https://solodit.xyz/issues/m-4-withdrawperiphery-uses-incorrect-value-for-max_bps-which-will-allow-much-higher-slippage-than-intended-sherlock-rage-trade-rage-trade-git)
 3. [Basis points constant BPS_MAX is used as minimal fee amount requirement](https://solodit.xyz/issues/m-01-basis-points-constant-bps_max-is-used-as-minimal-fee-amount-requirement-code4rena-aave-lens-aave-lens-contest-git)
-4. 
+4. [[M] IMPRECISE INTEREST RATE CALCULATIONS](https://github.com/arbitraryexecution/publications/blob/main/assessments/Sentiment_Protocol_20220727.pdf)
 
 ### Dynamic Thinking 
 1. 
@@ -128,6 +128,10 @@ Simply want to collect reports which i read day in and out.
 ### ERC20
 1. [Transfer token without user approval](https://github.com/Quillhash/QuillAudit_Reports/blob/master/AntiGravity%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf)
 2. [Potential locking of funds due to non standard ERC20 transfers](https://github.com/Quillhash/QuillAudit_Reports/blob/master/LivaatVerse%20Smart%20Contracts%20Audit%20Report%20-%20QuillAudits.pdf)
+3. [[C] INCORRECT ERC-20 TOKEN VALUATION](https://github.com/arbitraryexecution/publications/blob/main/assessments/Sentiment_Protocol_20220727.pdf)
+4. [[C] MAINTAINERS MAY NOT BE ABLE TO PERFORM LIQUIDATIONS](https://github.com/arbitraryexecution/publications/blob/main/assessments/Sentiment_Protocol_20220727.pdf)
+5. [[C] POSSIBLE ACCOUNT TAKEOVER BY A MALICIOUS USER](https://github.com/arbitraryexecution/publications/blob/main/assessments/Sentiment_Protocol_20220727.pdf)
+6. 
    
 # Go Reads 
 
