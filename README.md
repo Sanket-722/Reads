@@ -120,6 +120,7 @@ Simply want to collect reports which i read day in and out.
 2. [[L] Error-Prone Initialization of Blast_Adapter.sol](https://blog.openzeppelin.com/across-v3-and-oval-incremental-audit#:~:text=%5BAcross%5D-,Error%2DProne%20Initialization%20of%20Blast_Adapter.sol,-The%20constructor%20of)
 3. [[L] Permit2 Witness Is Not Fully Compliant With EIP-712](https://blog.openzeppelin.com/across-v3-and-oval-incremental-audit#:~:text=%5BAcross%5D-,Permit2%20Witness%20Is%20Not%20Fully%20Compliant%20With%20EIP%2D712,-The%20ERC7683Permit2Lib%20library)
 4. [[L]  Users May Lose Assets if They Specify an Empty Address as a Call Target](https://blog.openzeppelin.com/across-v3-and-oval-incremental-audit#:~:text=%5BAcross%5D-,Users%20May%20Lose%20Assets%20if%20They%20Specify%20an%20Empty%20Address%20as%20a%20Call%20Target,-The%20attemptCalls%20function)
+5.[ MintCap Check Missing in Cross-Chain Transfer](https://solodit.xyz/issues/mintcap-check-missing-in-cross-chain-transfer-mixbytes-none-dforce-markdown)
 
 ### Other 
 1. [Incorrect hardcoded address](https://solodit.xyz/issues/incorrect-hardcoded-address-mixbytes-none-barter-dao-markdown)
