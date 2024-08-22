@@ -132,7 +132,11 @@ Simply want to collect reports which i read day in and out.
 3. [[C] INCORRECT ERC-20 TOKEN VALUATION](https://github.com/arbitraryexecution/publications/blob/main/assessments/Sentiment_Protocol_20220727.pdf)
 4. [[C] MAINTAINERS MAY NOT BE ABLE TO PERFORM LIQUIDATIONS](https://github.com/arbitraryexecution/publications/blob/main/assessments/Sentiment_Protocol_20220727.pdf)
 5. [[C] POSSIBLE ACCOUNT TAKEOVER BY A MALICIOUS USER](https://github.com/arbitraryexecution/publications/blob/main/assessments/Sentiment_Protocol_20220727.pdf)
-6. 
+
+### EIP712
+1. [Replay attack in case of Hard fork](https://github.com/code-423n4/2022-07-golom-findings/issues/391)
+2. [If name is changed then the domain seperator would be wrong](https://github.com/code-423n4/2023-01-reserve-findings/issues/211)
+3. 
    
 # Go Reads 
 
