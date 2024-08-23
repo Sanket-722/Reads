@@ -136,7 +136,7 @@ Simply want to collect reports which i read day in and out.
 ### EIP712
 1. [Replay attack in case of Hard fork](https://github.com/code-423n4/2022-07-golom-findings/issues/391)
 2. [If name is changed then the domain seperator would be wrong](https://github.com/code-423n4/2023-01-reserve-findings/issues/211)
-3. 
+3. [encodedData argument of hashStruct is not calculated perfectly for EIP712 singed messages in CultureIndex.sol](https://github.com/code-423n4/2023-12-revolutionprotocol-findings/issues/77)
    
 # Go Reads 
 
