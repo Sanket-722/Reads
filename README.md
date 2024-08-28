@@ -89,7 +89,8 @@ Simply want to collect reports which i read day in and out.
 4. [[M] IMPRECISE INTEREST RATE CALCULATIONS](https://github.com/arbitraryexecution/publications/blob/main/assessments/Sentiment_Protocol_20220727.pdf)
 
 ### Dynamic Thinking 
-1. 
+1. [[L]lastBatchNonce Does Not Have Upper Bound Sanity Check](https://certificate.quantstamp.com/full/tensorplex-labs/fac85f03-dfa2-4f47-88d6-732ed5ea9360/index.html)
+2. 
 
 
 ### Math
