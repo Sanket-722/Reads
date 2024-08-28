@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/6a74f7f6-394c-4986-9135-e43861e2b925" alt="Reading_Boy" width="500" height="200"/>
+<img src="https://github.com/user-attachments/assets/6a74f7f6-394c-4986-9135-e43861e2b925" alt="Reading_Boy" width="1000" height="400"/>
 
 # Reports
 Simply want to collect reports which i read day in and out.
@@ -35,6 +35,7 @@ Simply want to collect reports which i read day in and out.
 ### Conditional
 1. [[M] !_account.isContract() can be bypassed](https://github.com/code-423n4/2022-04-jpegd-findings/issues/128)
 2. [Passing multiple ETH deposits in orders array will use the same `msg.value` many times](https://solodit.xyz/issues/m-08-passing-multiple-eth-deposits-in-orders-array-will-use-the-same-msgvalue-many-times-code4rena-nested-finance-nested-finance-contest-git)
+3. [Incorrect Revert Condition in submitBatch()](https://certificate.quantstamp.com/full/tensorplex-labs/fac85f03-dfa2-4f47-88d6-732ed5ea9360/index.html#findings-qs4)
 
 ### Functional 
 1. [[M] Unsafe call to `ERC20::transfer` can result in stuck funds.](https://solodit.xyz/issues/m-01-unsafe-call-to-erc20transfer-can-result-in-stuck-funds-pashov-none-zerem-markdown) 
@@ -81,6 +82,7 @@ Simply want to collect reports which i read day in and out.
 8. [Oracle periodSize = 0 which is as same as not using any oracle.](https://github.com/code-423n4/2022-06-canto-v2-findings/issues/8)
 9. [latestRoundData() has no check for round completeness](https://solodit.xyz/issues/m-7-latestrounddata-has-no-check-for-round-completeness-sherlock-isomorph-isomorph-git)
 10. [MISSING STALENESS CHECKS IN THE CHAINLINK.LATESTROUNDDATA() CALLS](https://solodit.xyz/issues/missing-staleness-checks-in-the-chainlinklatestrounddata-calls-halborn-none-lybra-finance-v2-security-assessment-pdf)
+11. [Oracle May Return Outdated Nav Information](https://certificate.quantstamp.com/full/solv-protocol-solv-btc/1eca9413-0b03-4b7d-9885-e5373ee2d722/index.html#findings-qs2)
 
 ### Decimal
 1. [Interest accrued could be zero for small decimal tokens](https://github.com/code-423n4/2022-03-sublime-findings/issues/10)
@@ -89,8 +91,7 @@ Simply want to collect reports which i read day in and out.
 4. [[M] IMPRECISE INTEREST RATE CALCULATIONS](https://github.com/arbitraryexecution/publications/blob/main/assessments/Sentiment_Protocol_20220727.pdf)
 
 ### Dynamic Thinking 
-1. [[L]lastBatchNonce Does Not Have Upper Bound Sanity Check](https://certificate.quantstamp.com/full/tensorplex-labs/fac85f03-dfa2-4f47-88d6-732ed5ea9360/index.html)
-2. 
+1. [[L]lastBatchNonce Does Not Have Upper Bound Sanity Check](https://certificate.quantstamp.com/full/tensorplex-labs/fac85f03-dfa2-4f47-88d6-732ed5ea9360/index.html) 
 
 
 ### Math
@@ -121,7 +122,10 @@ Simply want to collect reports which i read day in and out.
 2. [[L] Error-Prone Initialization of Blast_Adapter.sol](https://blog.openzeppelin.com/across-v3-and-oval-incremental-audit#:~:text=%5BAcross%5D-,Error%2DProne%20Initialization%20of%20Blast_Adapter.sol,-The%20constructor%20of)
 3. [[L] Permit2 Witness Is Not Fully Compliant With EIP-712](https://blog.openzeppelin.com/across-v3-and-oval-incremental-audit#:~:text=%5BAcross%5D-,Permit2%20Witness%20Is%20Not%20Fully%20Compliant%20With%20EIP%2D712,-The%20ERC7683Permit2Lib%20library)
 4. [[L]  Users May Lose Assets if They Specify an Empty Address as a Call Target](https://blog.openzeppelin.com/across-v3-and-oval-incremental-audit#:~:text=%5BAcross%5D-,Users%20May%20Lose%20Assets%20if%20They%20Specify%20an%20Empty%20Address%20as%20a%20Call%20Target,-The%20attemptCalls%20function)
-5.[ MintCap Check Missing in Cross-Chain Transfer](https://solodit.xyz/issues/mintcap-check-missing-in-cross-chain-transfer-mixbytes-none-dforce-markdown)
+5. [MintCap Check Missing in Cross-Chain Transfer](https://solodit.xyz/issues/mintcap-check-missing-in-cross-chain-transfer-mixbytes-none-dforce-markdown)
+6. [Loss of Funds if Unsupported Chain ID Specified](https://certificate.quantstamp.com/full/tensorplex-labs/fac85f03-dfa2-4f47-88d6-732ed5ea9360/index.html#findings-qs3)
+7. [[L] Source Chain ID in a Submitted Batch Can Be Modified](https://certificate.quantstamp.com/full/tensorplex-labs/fac85f03-dfa2-4f47-88d6-732ed5ea9360/index.html#findings-qs6)
+8. 
 
 ### Other 
 1. [Incorrect hardcoded address](https://solodit.xyz/issues/incorrect-hardcoded-address-mixbytes-none-barter-dao-markdown)
@@ -138,6 +142,10 @@ Simply want to collect reports which i read day in and out.
 1. [Replay attack in case of Hard fork](https://github.com/code-423n4/2022-07-golom-findings/issues/391)
 2. [If name is changed then the domain seperator would be wrong](https://github.com/code-423n4/2023-01-reserve-findings/issues/211)
 3. [encodedData argument of hashStruct is not calculated perfectly for EIP712 singed messages in CultureIndex.sol](https://github.com/code-423n4/2023-12-revolutionprotocol-findings/issues/77)
+
+### ERC-3525
+1. [[H] Attacker Can Drain Value From Contract](https://certificate.quantstamp.com/full/solv-protocol-solv-btc/1eca9413-0b03-4b7d-9885-e5373ee2d722/index.html#findings-qs1)
+2. 
    
 # Go Reads 
 
