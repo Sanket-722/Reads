@@ -158,6 +158,11 @@ Simply want to collect reports which i read day in and out.
 ### Rounding
 1. [Users might receive more funds due to rounding issue](https://github.com/SCV-Security/PublicReports/blob/19e1f50e43251f8feb07434e5c3a1067d0070454/Eris%20Protocol%2FERIS%20-%20Contracts%20ve3%20-%20Audit%20Report%20v1.0.pdf)
 
+### Conditional 
+1. [[L] pool.rs - Off by one error in create_position function](https://github.com/fluidity-money/long.so/blob/development/audits/hashlock.pdf)
+2. [[L] pool.rs - Production code should not panic](https://github.com/fluidity-money/long.so/blob/development/audits/hashlock.pdf)
+3. [[L] lib.rs - exchange function might be error prone](https://github.com/fluidity-money/long.so/blob/development/audits/hashlock.pdf)
+
 
 # Pentest Web3.0 Projects
 
