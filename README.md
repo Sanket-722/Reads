@@ -72,8 +72,7 @@ Simply want to collect reports which i read day in and out.
 5. [Missing ```fromToken != toToken``` check in ```MarginRouter.crossSwapExactTokensForTokens/MarginRouter.crossSwapTokensForExactTokens```](https://github.com/code-423n4/2021-04-marginswap-findings/issues/20)
 6. [[H] swapTokens Function Is Unusable](https://solodit.xyz/issues/swaptokens-function-is-unusable-openzeppelin-none-radiant-riz-audit-markdown)
 7. [LP tokens can be transferred to empty address](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Eddy%20Finance%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf)
-8. 
-
+8. [Rebate Estimator Address Desync](https://certificate.quantstamp.com/full/oasis-swap/878751e5-152a-4dae-9353-c9cd2acaedcf/index.html#findings-qs1)
 ### Oracle
 1. [_updateTwav() and _getTwav() will revert when cumulativePrice overflows](https://github.com/code-423n4/2022-06-nibbl-findings/issues/246)
 2. [[M] Chainlink’s latestRoundData might return stale or incorrect results](https://solodit.xyz/issues/m-05-chainlinks-latestrounddata-might-return-stale-or-incorrect-results-code4rena-mochi-mochi-contest-git)
