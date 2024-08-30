@@ -109,6 +109,7 @@ Simply want to collect reports which i read day in and out.
 ### Rounding Errors and Precision Loss
 1. [[M] Potential Loss Due to Unrefunded Excess when Purchasing NMT](https://certificate.quantstamp.com/full/net-mind/e7dfdc3c-7589-4fc8-b3d8-4872c783a735/index.html#findings-qs9)
 2. [[M] Precision Loss](https://certificate.quantstamp.com/full/net-mind/e7dfdc3c-7589-4fc8-b3d8-4872c783a735/index.html#findings-qs12)
+3. [[M]Loss of Precision Due to Division Before Multiplication](https://certificate.quantstamp.com/full/oasis-swap/878751e5-152a-4dae-9353-c9cd2acaedcf/index.html#findings-qs3)
 
 
 ### AMM
