@@ -73,6 +73,7 @@ Simply want to collect reports which i read day in and out.
 6. [[H] swapTokens Function Is Unusable](https://solodit.xyz/issues/swaptokens-function-is-unusable-openzeppelin-none-radiant-riz-audit-markdown)
 7. [LP tokens can be transferred to empty address](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Eddy%20Finance%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf)
 8. [Rebate Estimator Address Desync](https://certificate.quantstamp.com/full/oasis-swap/878751e5-152a-4dae-9353-c9cd2acaedcf/index.html#findings-qs1)
+   
 ### Oracle
 1. [_updateTwav() and _getTwav() will revert when cumulativePrice overflows](https://github.com/code-423n4/2022-06-nibbl-findings/issues/246)
 2. [[M] Chainlink’s latestRoundData might return stale or incorrect results](https://solodit.xyz/issues/m-05-chainlinks-latestrounddata-might-return-stale-or-incorrect-results-code4rena-mochi-mochi-contest-git)
@@ -85,6 +86,7 @@ Simply want to collect reports which i read day in and out.
 9. [latestRoundData() has no check for round completeness](https://solodit.xyz/issues/m-7-latestrounddata-has-no-check-for-round-completeness-sherlock-isomorph-isomorph-git)
 10. [MISSING STALENESS CHECKS IN THE CHAINLINK.LATESTROUNDDATA() CALLS](https://solodit.xyz/issues/missing-staleness-checks-in-the-chainlinklatestrounddata-calls-halborn-none-lybra-finance-v2-security-assessment-pdf)
 11. [Oracle May Return Outdated Nav Information](https://certificate.quantstamp.com/full/solv-protocol-solv-btc/1eca9413-0b03-4b7d-9885-e5373ee2d722/index.html#findings-qs2)
+12. [[M] Attackers Can Profit by Creating Repeated Long or Short Positions Using Known Oracle Prices](https://certificate.quantstamp.com/full/storm-trade/21e4074a-b2cb-409d-b5df-48f683d0e8f3/index.html#findings-qs1) ---> Exploit Scenario
 
 ### Decimal
 1. [Interest accrued could be zero for small decimal tokens](https://github.com/code-423n4/2022-03-sublime-findings/issues/10)
@@ -93,7 +95,8 @@ Simply want to collect reports which i read day in and out.
 4. [[M] IMPRECISE INTEREST RATE CALCULATIONS](https://github.com/arbitraryexecution/publications/blob/main/assessments/Sentiment_Protocol_20220727.pdf)
 
 ### Dynamic Thinking 
-1. [[L]lastBatchNonce Does Not Have Upper Bound Sanity Check](https://certificate.quantstamp.com/full/tensorplex-labs/fac85f03-dfa2-4f47-88d6-732ed5ea9360/index.html) 
+1. [[L]lastBatchNonce Does Not Have Upper Bound Sanity Check](https://certificate.quantstamp.com/full/tensorplex-labs/fac85f03-dfa2-4f47-88d6-732ed5ea9360/index.html)
+2. [[L] Double Reserve in vault Can Lead to Transaction Failure](https://certificate.quantstamp.com/full/storm-trade/21e4074a-b2cb-409d-b5df-48f683d0e8f3/index.html#findings-qs7)
 
 
 ### Math
@@ -132,10 +135,9 @@ Simply want to collect reports which i read day in and out.
 6. [Loss of Funds if Unsupported Chain ID Specified](https://certificate.quantstamp.com/full/tensorplex-labs/fac85f03-dfa2-4f47-88d6-732ed5ea9360/index.html#findings-qs3)
 7. [[L] Source Chain ID in a Submitted Batch Can Be Modified](https://certificate.quantstamp.com/full/tensorplex-labs/fac85f03-dfa2-4f47-88d6-732ed5ea9360/index.html#findings-qs6)
 
-### Signature Replay
+### Replay 
 1. [Signature Replay](https://certificate.quantstamp.com/full/net-mind/e7dfdc3c-7589-4fc8-b3d8-4872c783a735/index.html#findings-qs1)
-2. 
-
+2. [[M] Replay Attack to Close or Open Market Unexpectedly](https://certificate.quantstamp.com/full/storm-trade/21e4074a-b2cb-409d-b5df-48f683d0e8f3/index.html#findings-qs2)
 
 ### Other 
 1. [Incorrect hardcoded address](https://solodit.xyz/issues/incorrect-hardcoded-address-mixbytes-none-barter-dao-markdown)
@@ -143,6 +145,8 @@ Simply want to collect reports which i read day in and out.
 3. [Excessive Privileges for Wards](https://certificate.quantstamp.com/full/net-mind/e7dfdc3c-7589-4fc8-b3d8-4872c783a735/index.html#findings-qs2)
 4. [Centralization Risks](https://certificate.quantstamp.com/full/net-mind/e7dfdc3c-7589-4fc8-b3d8-4872c783a735/index.html#findings-qs3)
 5. [[M] Malicious Manager Can Pass Any Proposal and Drain Funds](https://certificate.quantstamp.com/full/net-mind/e7dfdc3c-7589-4fc8-b3d8-4872c783a735/index.html#findings-qs7)
+6. [Executor and Referral Rewards Can Be Lost After Vault Updates Due to a Race Condition](https://certificate.quantstamp.com/full/storm-trade/21e4074a-b2cb-409d-b5df-48f683d0e8f3/index.html#findings-qs4) --- Exploit Scenario
+7. [Race Condition in Bounce Messages Handling Lead to Overwritten Balances](https://certificate.quantstamp.com/full/storm-trade/21e4074a-b2cb-409d-b5df-48f683d0e8f3/index.html#findings-qs5) --- Exploit Scenario
 
 ### ERC20
 1. [Transfer token without user approval](https://github.com/Quillhash/QuillAudit_Reports/blob/master/AntiGravity%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf)
