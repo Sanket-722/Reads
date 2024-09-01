@@ -162,7 +162,6 @@ Simply want to collect reports which i read day in and out.
 
 ### ERC-3525
 1. [[H] Attacker Can Drain Value From Contract](https://certificate.quantstamp.com/full/solv-protocol-solv-btc/1eca9413-0b03-4b7d-9885-e5373ee2d722/index.html#findings-qs1)
-2. 
    
 # Go Reads 
 
@@ -174,7 +173,10 @@ Simply want to collect reports which i read day in and out.
 
 ### Math 
 1. [Incorrect implementation of integer math functions](https://solodit.xyz/issues/incorrect-implementation-of-integer-math-functions-trailofbits-none-ochain-labs-arbos-30-nitro-upgrade-pdf)
+2. [Staking] [[L] Missing Conversion to Gwei](https://certificate.quantstamp.com/full/liquid-collective-lceth/727416a8-3cf6-46fb-a103-701d5c94649e/index.html#findings-qs4)
 
+### Dos
+1. [Staking] [[M]Potential Denial of Service in Report Generation Due to Underflow](https://certificate.quantstamp.com/full/liquid-collective-lceth/727416a8-3cf6-46fb-a103-701d5c94649e/index.html#findings-qs1) 
 
 # Rust Reads
 
