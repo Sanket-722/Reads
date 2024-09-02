@@ -57,12 +57,14 @@ Simply want to collect reports which i read day in and out.
 16. ['onlyEOAEx' modifier that ensures call is from EOA might not hold true in the future](https://github.com/sherlock-audit/2023-02-blueberry-judging/issues/21)
 17. [THORChain_Router’s‌‌transferOut‌‌ does‌‌ not‌‌ check‌‌ transfer‌‌ return‌‌ values No 8](https://github.com/thorchain/Resources/blob/master/Audits/THORChain-TrailOfBits-FullAudit-Aug2021.pdf)
 18. [AccountManage Can Be Initialized With No Required Signers](https://certificate.quantstamp.com/full/net-mind/e7dfdc3c-7589-4fc8-b3d8-4872c783a735/index.html#findings-qs4)
+19. [Staking] [[H] Loss of Pending Reward when Unstaking](https://certificate.quantstamp.com/full/zero-staking/40ffa176-7b8d-43ec-a7e2-29732c12f21e/index.html#findings-qs2)
+20. 
 
 ### Logical
 1. [getUserInfo() returns incorrect values for locked and stakedAmount ](https://github.com/sherlock-audit/2022-10-union-finance-judging/issues/80)
 2. [Maximal approvals remain for the AssetManager's adapters and tokens after removal](https://github.com/sherlock-audit/2022-10-union-finance-judging/issues/36)
 3. [CURVEPOOL.EXCHANGEUNDERLYING() CALL COULD CONSTANTLY REVERT IN THE DISTRIBUTEREWARDS FUNCTION](https://github.com/HalbornSecurity/PublicReports/blob/master/Solidity%20Smart%20Contract%20Audits/Lybra_Finance_V2_Smart_Contract_Security_Assessment_Report_Halborn_Final.pdf)
-4. 
+4. [Staking] [[H] Malicious User Can Drain Rewards Through Reentrancy in Staking](https://certificate.quantstamp.com/full/zero-staking/40ffa176-7b8d-43ec-a7e2-29732c12f21e/index.html#findings-qs1)
 
 ### Swap 
 1. [[M] `UNISWAP_FEE` is hardcoded which will lead to significant losses compared to optimal routing](https://solodit.xyz/issues/m-02-uniswap_fee-is-hardcoded-which-will-lead-to-significant-losses-compared-to-optimal-routing-code4rena-sturdy-sturdy-contest-git_)
@@ -108,11 +110,13 @@ Simply want to collect reports which i read day in and out.
 
 ### Tokens
 1. [AutoleverageBase: Must approve 0](https://github.com/code-423n4/2022-05-alchemix-findings/issues/144)
+2. [[Staking] [M] Mixing of Staked Tokens and Reward Tokens](https://certificate.quantstamp.com/full/zero-staking/40ffa176-7b8d-43ec-a7e2-29732c12f21e/index.html#findings-qs4)
 
 ### Rounding Errors and Precision Loss
 1. [[M] Potential Loss Due to Unrefunded Excess when Purchasing NMT](https://certificate.quantstamp.com/full/net-mind/e7dfdc3c-7589-4fc8-b3d8-4872c783a735/index.html#findings-qs9)
 2. [[M] Precision Loss](https://certificate.quantstamp.com/full/net-mind/e7dfdc3c-7589-4fc8-b3d8-4872c783a735/index.html#findings-qs12)
 3. [[M]Loss of Precision Due to Division Before Multiplication](https://certificate.quantstamp.com/full/oasis-swap/878751e5-152a-4dae-9353-c9cd2acaedcf/index.html#findings-qs3)
+4. [Staking] [[M] Users Can Lose Out on Rewards if They Claim Too Frequently](https://certificate.quantstamp.com/full/zero-staking/40ffa176-7b8d-43ec-a7e2-29732c12f21e/index.html#findings-qs3)
 
 
 ### AMM
@@ -125,6 +129,7 @@ Simply want to collect reports which i read day in and out.
 3. [onlyOwner Role Can Unintentionally Influence "settleAuction()"](https://solodit.xyz/issues/m-03-onlyowner-role-can-unintentionally-influence-settleauction-code4rena-kuiper-kuiper-contest-git)
 4. [[M]Hackers can deploy token with respective name as the stable one to impersonate the stable token](https://solodit.xyz/issues/m-03-hackers-can-deploy-token-with-respective-name-as-the-stable-one-to-impersonate-the-stable-token-code4rena-canto-canto-git)
 5. [[C] Slot Collision](https://www.trust-security.xyz/post/learning-by-breaking-a-layerzero-case-study-part-one)
+   
 
 ### CrossChain
 1. [[M] It Will Not Be Possible to Bridge DAI to Blast](https://solodit.xyz/issues/across-it-will-not-be-possible-to-bridge-dai-to-blast-openzeppelin-none-across-v3-and-oval-incremental-audit-markdown)
