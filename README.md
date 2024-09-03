@@ -129,6 +129,7 @@ Simply want to collect reports which i read day in and out.
 3. [onlyOwner Role Can Unintentionally Influence "settleAuction()"](https://solodit.xyz/issues/m-03-onlyowner-role-can-unintentionally-influence-settleauction-code4rena-kuiper-kuiper-contest-git)
 4. [[M]Hackers can deploy token with respective name as the stable one to impersonate the stable token](https://solodit.xyz/issues/m-03-hackers-can-deploy-token-with-respective-name-as-the-stable-one-to-impersonate-the-stable-token-code4rena-canto-canto-git)
 5. [[C] Slot Collision](https://www.trust-security.xyz/post/learning-by-breaking-a-layerzero-case-study-part-one)
+6. [Restaking] [[M] Vault Accounting Inconsistency if Harvester Calls Delegator Functions Directly](https://certificate.quantstamp.com/full/affine-labs-ultra-eth-lrt/f1c58be1-9f7a-4716-b96a-6d38816396d2/index.html#findings-qs1)
    
 
 ### CrossChain
@@ -181,7 +182,7 @@ Simply want to collect reports which i read day in and out.
 2. [Staking] [[L] Missing Conversion to Gwei](https://certificate.quantstamp.com/full/liquid-collective-lceth/727416a8-3cf6-46fb-a103-701d5c94649e/index.html#findings-qs4)
 
 ### Dos
-1. [Staking] [[M]Potential Denial of Service in Report Generation Due to Underflow](https://certificate.quantstamp.com/full/liquid-collective-lceth/727416a8-3cf6-46fb-a103-701d5c94649e/index.html#findings-qs1) 
+1. [Staking] [[M] Potential Denial of Service in Report Generation Due to Underflow](https://certificate.quantstamp.com/full/liquid-collective-lceth/727416a8-3cf6-46fb-a103-701d5c94649e/index.html#findings-qs1) 
 
 # Rust Reads
 
