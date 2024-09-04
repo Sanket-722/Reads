@@ -58,7 +58,8 @@ Simply want to collect reports which i read day in and out.
 17. [THORChain_Router’s‌‌transferOut‌‌ does‌‌ not‌‌ check‌‌ transfer‌‌ return‌‌ values No 8](https://github.com/thorchain/Resources/blob/master/Audits/THORChain-TrailOfBits-FullAudit-Aug2021.pdf)
 18. [AccountManage Can Be Initialized With No Required Signers](https://certificate.quantstamp.com/full/net-mind/e7dfdc3c-7589-4fc8-b3d8-4872c783a735/index.html#findings-qs4)
 19. [Staking] [[H] Loss of Pending Reward when Unstaking](https://certificate.quantstamp.com/full/zero-staking/40ffa176-7b8d-43ec-a7e2-29732c12f21e/index.html#findings-qs2)
-20. 
+20. [ERC-20 Staking and Governance] [[M] Users Can Move Votes with delegateBySig()](https://certificate.quantstamp.com/full/music-protocol-token-staking-and-dao/3cb260d9-3d7c-47a8-b247-6ca4ce733ab6/index.html#findings-qs3)
+21. [ERC-20 Staking and Governance] [[M] Potentially Inaccurate Quorum Calculations](https://certificate.quantstamp.com/full/music-protocol-token-staking-and-dao/3cb260d9-3d7c-47a8-b247-6ca4ce733ab6/index.html#findings-qs4)
 
 ### Logical
 1. [getUserInfo() returns incorrect values for locked and stakedAmount ](https://github.com/sherlock-audit/2022-10-union-finance-judging/issues/80)
@@ -153,6 +154,7 @@ Simply want to collect reports which i read day in and out.
 5. [[M] Malicious Manager Can Pass Any Proposal and Drain Funds](https://certificate.quantstamp.com/full/net-mind/e7dfdc3c-7589-4fc8-b3d8-4872c783a735/index.html#findings-qs7)
 6. [Executor and Referral Rewards Can Be Lost After Vault Updates Due to a Race Condition](https://certificate.quantstamp.com/full/storm-trade/21e4074a-b2cb-409d-b5df-48f683d0e8f3/index.html#findings-qs4) --- Exploit Scenario
 7. [Race Condition in Bounce Messages Handling Lead to Overwritten Balances](https://certificate.quantstamp.com/full/storm-trade/21e4074a-b2cb-409d-b5df-48f683d0e8f3/index.html#findings-qs5) --- Exploit Scenario
+8. [ERC-20 Staking and Governance] [[L] Checks-Effects-Interactions Pattern Violation](https://certificate.quantstamp.com/full/music-protocol-token-staking-and-dao/3cb260d9-3d7c-47a8-b247-6ca4ce733ab6/index.html#findings-qs5)
 
 ### ERC20
 1. [Transfer token without user approval](https://github.com/Quillhash/QuillAudit_Reports/blob/master/AntiGravity%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf)
@@ -160,7 +162,10 @@ Simply want to collect reports which i read day in and out.
 3. [[C] INCORRECT ERC-20 TOKEN VALUATION](https://github.com/arbitraryexecution/publications/blob/main/assessments/Sentiment_Protocol_20220727.pdf)
 4. [[C] MAINTAINERS MAY NOT BE ABLE TO PERFORM LIQUIDATIONS](https://github.com/arbitraryexecution/publications/blob/main/assessments/Sentiment_Protocol_20220727.pdf)
 5. [[C] POSSIBLE ACCOUNT TAKEOVER BY A MALICIOUS USER](https://github.com/arbitraryexecution/publications/blob/main/assessments/Sentiment_Protocol_20220727.pdf)
-
+6. [ERC-20 Staking and Governance] [[H] Redeeming Does Not Discount Tokens of Removed Artists, Leading to Inflated Rewards](https://certificate.quantstamp.com/full/music-protocol-token-staking-and-dao/3cb260d9-3d7c-47a8-b247-6ca4ce733ab6/index.html#findings-qs1)
+7. [ERC-20 Staking and Governance] [[M] Unstoppable Proposal](https://certificate.quantstamp.com/full/music-protocol-token-staking-and-dao/3cb260d9-3d7c-47a8-b247-6ca4ce733ab6/index.html#findings-qs2) ---> Exploit
+8. [ERC-20 Staking and Governance] [[L] Staking Web3MusicNativeToken Deviates From the ERC-20 Standard](https://certificate.quantstamp.com/full/music-protocol-token-staking-and-dao/3cb260d9-3d7c-47a8-b247-6ca4ce733ab6/index.html#findings-qs6)
+   
 ### EIP712
 1. [Replay attack in case of Hard fork](https://github.com/code-423n4/2022-07-golom-findings/issues/391)
 2. [If name is changed then the domain seperator would be wrong](https://github.com/code-423n4/2023-01-reserve-findings/issues/211)
