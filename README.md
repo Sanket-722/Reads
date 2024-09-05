@@ -165,6 +165,7 @@ Simply want to collect reports which i read day in and out.
 6. [ERC-20 Staking and Governance] [[H] Redeeming Does Not Discount Tokens of Removed Artists, Leading to Inflated Rewards](https://certificate.quantstamp.com/full/music-protocol-token-staking-and-dao/3cb260d9-3d7c-47a8-b247-6ca4ce733ab6/index.html#findings-qs1)
 7. [ERC-20 Staking and Governance] [[M] Unstoppable Proposal](https://certificate.quantstamp.com/full/music-protocol-token-staking-and-dao/3cb260d9-3d7c-47a8-b247-6ca4ce733ab6/index.html#findings-qs2) ---> Exploit
 8. [ERC-20 Staking and Governance] [[L] Staking Web3MusicNativeToken Deviates From the ERC-20 Standard](https://certificate.quantstamp.com/full/music-protocol-token-staking-and-dao/3cb260d9-3d7c-47a8-b247-6ca4ce733ab6/index.html#findings-qs6)
+9. [Staking] [[H] User Pending Rewards Can Never Be Paid Out](https://certificate.quantstamp.com/full/intent-x/a195e62f-30b6-4219-b9e5-42af8a9e2fd5/index.html#findings-qs1)
    
 ### EIP712
 1. [Replay attack in case of Hard fork](https://github.com/code-423n4/2022-07-golom-findings/issues/391)
