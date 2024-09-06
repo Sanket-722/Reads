@@ -145,6 +145,7 @@ Simply want to collect reports which i read day in and out.
 ### Replay 
 1. [Signature Replay](https://certificate.quantstamp.com/full/net-mind/e7dfdc3c-7589-4fc8-b3d8-4872c783a735/index.html#findings-qs1)
 2. [[M] Replay Attack to Close or Open Market Unexpectedly](https://certificate.quantstamp.com/full/storm-trade/21e4074a-b2cb-409d-b5df-48f683d0e8f3/index.html#findings-qs2)
+3. [Risk of Signature Replay Attack in ApprovedCallsPolicy](https://solodit.xyz/issues/risk-of-signature-replay-attack-in-approvedcallspolicy-openzeppelin-none-ironblocks-onchain-firewall-audit-markdown)
 
 ### Other 
 1. [Incorrect hardcoded address](https://solodit.xyz/issues/incorrect-hardcoded-address-mixbytes-none-barter-dao-markdown)
