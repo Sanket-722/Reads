@@ -67,6 +67,7 @@ Simply want to collect reports which i read day in and out.
 3. [CURVEPOOL.EXCHANGEUNDERLYING() CALL COULD CONSTANTLY REVERT IN THE DISTRIBUTEREWARDS FUNCTION](https://github.com/HalbornSecurity/PublicReports/blob/master/Solidity%20Smart%20Contract%20Audits/Lybra_Finance_V2_Smart_Contract_Security_Assessment_Report_Halborn_Final.pdf)
 4. [Staking] [[H] Malicious User Can Drain Rewards Through Reentrancy in Staking](https://certificate.quantstamp.com/full/zero-staking/40ffa176-7b8d-43ec-a7e2-29732c12f21e/index.html#findings-qs1)
 5. [Staking] [[H] A malicious user can reduce other users' rewards due to incorrect accounting of stake balances](https://certificate.quantstamp.com/full/nayms-2024-retainer/04e1c37c-19e8-4c7d-b743-268e4a6466c9/index.html#findings-qs2)
+6. [Staking] [[H] Incorrect accounting when users of a staking entity stake into that entity](https://certificate.quantstamp.com/full/nayms-2024-retainer/04e1c37c-19e8-4c7d-b743-268e4a6466c9/index.html#findings-qs3)
 
 ### Swap 
 1. [[M] `UNISWAP_FEE` is hardcoded which will lead to significant losses compared to optimal routing](https://solodit.xyz/issues/m-02-uniswap_fee-is-hardcoded-which-will-lead-to-significant-losses-compared-to-optimal-routing-code4rena-sturdy-sturdy-contest-git_)
