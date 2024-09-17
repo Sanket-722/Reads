@@ -68,6 +68,7 @@ Simply want to collect reports which i read day in and out.
 4. [Staking] [[H] Malicious User Can Drain Rewards Through Reentrancy in Staking](https://certificate.quantstamp.com/full/zero-staking/40ffa176-7b8d-43ec-a7e2-29732c12f21e/index.html#findings-qs1)
 5. [Staking] [[H] A malicious user can reduce other users' rewards due to incorrect accounting of stake balances](https://certificate.quantstamp.com/full/nayms-2024-retainer/04e1c37c-19e8-4c7d-b743-268e4a6466c9/index.html#findings-qs2)
 6. [Staking] [[H] Incorrect accounting when users of a staking entity stake into that entity](https://certificate.quantstamp.com/full/nayms-2024-retainer/04e1c37c-19e8-4c7d-b743-268e4a6466c9/index.html#findings-qs3)
+7. [Staking] [[H] Reentrancy in LiquidStakingManager.sol#withdrawETHForKnow leads to loss of fund from smart wallet](https://solodit.xyz/issues/h-05-reentrancy-in-liquidstakingmanagersolwithdrawethforknow-leads-to-loss-of-fund-from-smart-wallet-code4rena-stakehouse-protocol-lsd-network-stakehouse-contest-git)
 
 ### Swap 
 1. [[M] `UNISWAP_FEE` is hardcoded which will lead to significant losses compared to optimal routing](https://solodit.xyz/issues/m-02-uniswap_fee-is-hardcoded-which-will-lead-to-significant-losses-compared-to-optimal-routing-code4rena-sturdy-sturdy-contest-git_)
@@ -135,6 +136,9 @@ Simply want to collect reports which i read day in and out.
 5. [[C] Slot Collision](https://www.trust-security.xyz/post/learning-by-breaking-a-layerzero-case-study-part-one)
 6. [Restaking] [[M] Vault Accounting Inconsistency if Harvester Calls Delegator Functions Directly](https://certificate.quantstamp.com/full/affine-labs-ultra-eth-lrt/f1c58be1-9f7a-4716-b96a-6d38816396d2/index.html#findings-qs1)
 7. [Staking] [[H] User can artificially inflate stake boosts for the next interval by repeating stake and unstake actions](https://certificate.quantstamp.com/full/nayms-2024-retainer/04e1c37c-19e8-4c7d-b743-268e4a6466c9/index.html#findings-qs1)
+8. LSD Staking [[M] DAO or lsdn owner can steal funds from node runner](https://solodit.xyz/issues/m-09-dao-or-lsdn-owner-can-steal-funds-from-node-runner-code4rena-stakehouse-protocol-lsd-network-stakehouse-contest-git)
+9. 
+
    
 
 ### CrossChain
