@@ -136,10 +136,7 @@ Simply want to collect reports which i read day in and out.
 5. [[C] Slot Collision](https://www.trust-security.xyz/post/learning-by-breaking-a-layerzero-case-study-part-one)
 6. [Restaking] [[M] Vault Accounting Inconsistency if Harvester Calls Delegator Functions Directly](https://certificate.quantstamp.com/full/affine-labs-ultra-eth-lrt/f1c58be1-9f7a-4716-b96a-6d38816396d2/index.html#findings-qs1)
 7. [Staking] [[H] User can artificially inflate stake boosts for the next interval by repeating stake and unstake actions](https://certificate.quantstamp.com/full/nayms-2024-retainer/04e1c37c-19e8-4c7d-b743-268e4a6466c9/index.html#findings-qs1)
-8. LSD Staking [[M] DAO or lsdn owner can steal funds from node runner](https://solodit.xyz/issues/m-09-dao-or-lsdn-owner-can-steal-funds-from-node-runner-code4rena-stakehouse-protocol-lsd-network-stakehouse-contest-git)
-9. 
-
-   
+8. LSD Staking [[M] DAO or lsdn owner can steal funds from node runner](https://solodit.xyz/issues/m-09-dao-or-lsdn-owner-can-steal-funds-from-node-runner-code4rena-stakehouse-protocol-lsd-network-stakehouse-contest-git)   
 
 ### CrossChain
 1. [[M] It Will Not Be Possible to Bridge DAI to Blast](https://solodit.xyz/issues/across-it-will-not-be-possible-to-bridge-dai-to-blast-openzeppelin-none-across-v3-and-oval-incremental-audit-markdown)
@@ -154,6 +151,11 @@ Simply want to collect reports which i read day in and out.
 1. [Signature Replay](https://certificate.quantstamp.com/full/net-mind/e7dfdc3c-7589-4fc8-b3d8-4872c783a735/index.html#findings-qs1)
 2. [[M] Replay Attack to Close or Open Market Unexpectedly](https://certificate.quantstamp.com/full/storm-trade/21e4074a-b2cb-409d-b5df-48f683d0e8f3/index.html#findings-qs2)
 3. [Risk of Signature Replay Attack in ApprovedCallsPolicy](https://solodit.xyz/issues/risk-of-signature-replay-attack-in-approvedcallspolicy-openzeppelin-none-ironblocks-onchain-firewall-audit-markdown)
+
+### Mint 
+1. [Liquid Stacking] [[H] MozToken allows owner to mint an arbitrary amount of tokens, although supply is fixed](https://solodit.xyz/issues/trst-m-7-moztoken-allows-owner-to-mint-an-arbitrary-amount-of-tokens-although-supply-is-fixed-trust-security-none-mozaic-archimedes-markdown_)
+2. [Liquid Stacking] [[M] possibility of minting rJOE tokens before ownership is changed to RocketJoeStaking](https://solodit.xyz/issues/m-06-possibility-of-minting-rjoe-tokens-before-ownership-is-changed-to-rocketjoestaking-code4rena-trader-joe-trader-joe-contest-git)
+
 
 ### Other 
 1. [Incorrect hardcoded address](https://solodit.xyz/issues/incorrect-hardcoded-address-mixbytes-none-barter-dao-markdown)
