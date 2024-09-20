@@ -168,6 +168,8 @@ Simply want to collect reports which i read day in and out.
 8. [ERC-20 Staking and Governance] [[L] Checks-Effects-Interactions Pattern Violation](https://certificate.quantstamp.com/full/music-protocol-token-staking-and-dao/3cb260d9-3d7c-47a8-b247-6ca4ce733ab6/index.html#findings-qs5)
 9. [Liquid Staking Token] [[M] Missing Enforcements for Voting](https://certificate.quantstamp.com/full/stake-stone/4b7cbc5e-5595-4ac4-ac36-176f43ee9adf/index.html#findings-qs1)
 10. [Staking][[H] Current Accounting Rules Can Lead to Losing the SysAdmin Privilege of the Naym Diamond](https://certificate.quantstamp.com/full/nayms-2024-retainer/04e1c37c-19e8-4c7d-b743-268e4a6466c9/index.html#findings-qs5)
+11. [Node Stacking] [QuestFactory is suspicious of the reorg attack](https://solodit.xyz/issues/m-01-questfactory-is-suspicious-of-the-reorg-attack-code4rena-rabbithole-rabbithole-quest-protocol-contest-git)
+12. [Node Stacking] [Re-org attack in factory](https://solodit.xyz/issues/m-14-re-org-attack-in-factory-code4rena-frankencoin-frankencoin-git)
 
 ### ERC20
 1. [Transfer token without user approval](https://github.com/Quillhash/QuillAudit_Reports/blob/master/AntiGravity%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf)
