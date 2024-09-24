@@ -193,6 +193,11 @@ Simply want to collect reports which i read day in and out.
 
 ### ERC-3525
 1. [[H] Attacker Can Drain Value From Contract](https://certificate.quantstamp.com/full/solv-protocol-solv-btc/1eca9413-0b03-4b7d-9885-e5373ee2d722/index.html#findings-qs1)
+
+### Weird_ERC
+1. [[M] Protocol can break for a token with a proxy and implementation contract (like `TUSD`)](https://solodit.xyz/issues/protocol-can-break-for-a-token-with-a-proxy-and-implementation-contract-like-tusd-codehawks-foundry-defi-stablecoin-codehawks-audit-contest-git)
+2. [[M] Missing approve(0)](https://solodit.xyz/issues/m-08-missing-approve0-code4rena-sublime-sublime-contest-git)
+3. 
    
 # Go Reads 
 
