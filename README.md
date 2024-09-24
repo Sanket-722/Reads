@@ -171,6 +171,7 @@ Simply want to collect reports which i read day in and out.
 11. [Node Stacking] [QuestFactory is suspicious of the reorg attack](https://solodit.xyz/issues/m-01-questfactory-is-suspicious-of-the-reorg-attack-code4rena-rabbithole-rabbithole-quest-protocol-contest-git)
 12. [Node Stacking] [Re-org attack in factory](https://solodit.xyz/issues/m-14-re-org-attack-in-factory-code4rena-frankencoin-frankencoin-git)
 13. [Node Stacking] [Create methods are suspicious of the reorg attack](https://solodit.xyz/issues/m-09-create-methods-are-suspicious-of-the-reorg-attack-code4rena-pooltogether-pooltogether-git)
+14. [Node Stacking] [[H] Unable to claim vesting due to unbounded timelock loop](https://solodit.xyz/issues/h-08-unable-to-claim-vesting-due-to-unbounded-timelock-loop-code4rena-boot-finance-boot-finance-contest-git)
 
 ### ERC20
 1. [Transfer token without user approval](https://github.com/Quillhash/QuillAudit_Reports/blob/master/AntiGravity%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf)
