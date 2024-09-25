@@ -136,7 +136,8 @@ Simply want to collect reports which i read day in and out.
 5. [[C] Slot Collision](https://www.trust-security.xyz/post/learning-by-breaking-a-layerzero-case-study-part-one)
 6. [Restaking] [[M] Vault Accounting Inconsistency if Harvester Calls Delegator Functions Directly](https://certificate.quantstamp.com/full/affine-labs-ultra-eth-lrt/f1c58be1-9f7a-4716-b96a-6d38816396d2/index.html#findings-qs1)
 7. [Staking] [[H] User can artificially inflate stake boosts for the next interval by repeating stake and unstake actions](https://certificate.quantstamp.com/full/nayms-2024-retainer/04e1c37c-19e8-4c7d-b743-268e4a6466c9/index.html#findings-qs1)
-8. LSD Staking [[M] DAO or lsdn owner can steal funds from node runner](https://solodit.xyz/issues/m-09-dao-or-lsdn-owner-can-steal-funds-from-node-runner-code4rena-stakehouse-protocol-lsd-network-stakehouse-contest-git)   
+8. [LSD Staking] [[M] DAO or lsdn owner can steal funds from node runner](https://solodit.xyz/issues/m-09-dao-or-lsdn-owner-can-steal-funds-from-node-runner-code4rena-stakehouse-protocol-lsd-network-stakehouse-contest-git)
+9. [Inconsistent support for a native `ETH` token ](https://solodit.xyz/issues/inconsistent-support-for-a-native-eth-token-mixbytes-none-kelpdao-markdown)
 
 ### CrossChain
 1. [[M] It Will Not Be Possible to Bridge DAI to Blast](https://solodit.xyz/issues/across-it-will-not-be-possible-to-bridge-dai-to-blast-openzeppelin-none-across-v3-and-oval-incremental-audit-markdown)
