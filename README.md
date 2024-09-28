@@ -193,6 +193,8 @@ Simply want to collect reports which i read day in and out.
 1. [Replay attack in case of Hard fork](https://github.com/code-423n4/2022-07-golom-findings/issues/391)
 2. [If name is changed then the domain seperator would be wrong](https://github.com/code-423n4/2023-01-reserve-findings/issues/211)
 3. [encodedData argument of hashStruct is not calculated perfectly for EIP712 singed messages in CultureIndex.sol](https://github.com/code-423n4/2023-12-revolutionprotocol-findings/issues/77)
+4. [The tokenURI method does not check if the NFT has been minted and returns data for the contract that may be a fake NFT.](https://solodit.xyz/issues/m-02-violation-of-erc-721-standard-in-verbstokentokenuri-implementation-code4rena-collective-collective-git)
+5. [Violation of ERC-721 Standard in VerbsToken:tokenURI Implementation](https://github.com/code-423n4/2023-04-caviar-findings/issues/44)
 
 ### ERC-3525
 1. [[H] Attacker Can Drain Value From Contract](https://certificate.quantstamp.com/full/solv-protocol-solv-btc/1eca9413-0b03-4b7d-9885-e5373ee2d722/index.html#findings-qs1)
@@ -200,7 +202,7 @@ Simply want to collect reports which i read day in and out.
 ### Weird_ERC
 1. [[M] Protocol can break for a token with a proxy and implementation contract (like `TUSD`)](https://solodit.xyz/issues/protocol-can-break-for-a-token-with-a-proxy-and-implementation-contract-like-tusd-codehawks-foundry-defi-stablecoin-codehawks-audit-contest-git)
 2. [[M] Missing approve(0)](https://solodit.xyz/issues/m-08-missing-approve0-code4rena-sublime-sublime-contest-git)
-3. 
+3. [[H] Unsafe handling of underlying tokens ](https://solodit.xyz/issues/h-01-unsafe-handling-of-underlying-tokens-code4rena-swivel-swivel-contest-git)
    
 # Go Reads 
 
