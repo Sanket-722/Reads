@@ -72,6 +72,7 @@ Simply want to collect reports which i read day in and out.
 7. [Staking] [[H] Reentrancy in LiquidStakingManager.sol#withdrawETHForKnow leads to loss of fund from smart wallet](https://solodit.xyz/issues/h-05-reentrancy-in-liquidstakingmanagersolwithdrawethforknow-leads-to-loss-of-fund-from-smart-wallet-code4rena-stakehouse-protocol-lsd-network-stakehouse-contest-git)
 8. [Delegate Stake] [[H] Unresponsive service provider locks delegator stake](https://solodit.xyz/issues/h12-unresponsive-service-provider-locks-delegator-stake-openzeppelin-audius-contracts-audit-markdown)
 9. [DeFi] [[M] ACLFacet.updateRoleGroup() may change GROUP_SYSTEM_ADMINS, bypassing the existing check](https://certificate.quantstamp.com/full/nayms-2024-retainer/04e1c37c-19e8-4c7d-b743-268e4a6466c9/index.html#findings-qs8)
+10. [DeFi: Token Vesting, Sale or Airdrop] [Users Can Obtain Unlimited Giveaway Amounts](https://certificate.quantstamp.com/full/impossible-finance/080f5654-a0e0-4626-a864-95b2989ea7cd/index.html#findings-qs1)
 
 ### Swap 
 1. [[M] `UNISWAP_FEE` is hardcoded which will lead to significant losses compared to optimal routing](https://solodit.xyz/issues/m-02-uniswap_fee-is-hardcoded-which-will-lead-to-significant-losses-compared-to-optimal-routing-code4rena-sturdy-sturdy-contest-git_)
