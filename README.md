@@ -108,6 +108,9 @@ Simply want to collect reports which i read day in and out.
 ### Dynamic Thinking 
 1. [[L]lastBatchNonce Does Not Have Upper Bound Sanity Check](https://certificate.quantstamp.com/full/tensorplex-labs/fac85f03-dfa2-4f47-88d6-732ed5ea9360/index.html)
 2. [[L] Double Reserve in vault Can Lead to Transaction Failure](https://certificate.quantstamp.com/full/storm-trade/21e4074a-b2cb-409d-b5df-48f683d0e8f3/index.html#findings-qs7)
+3. [M] [Governance Voting Dis-proportionally Favours Users Who Stake And Vote After A Poll Has Been Created And Had Its Snapshot Taken
+](https://solodit.xyz/issues/m-03-governance-voting-dis-proportionally-favours-users-who-stake-and-vote-after-a-poll-has-been-created-and-had-its-snapshot-taken-code4rena-anchor-anchor-contest-git)
+
 
 
 ### Math
