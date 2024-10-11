@@ -98,6 +98,8 @@ Simply want to collect reports which i read day in and out.
 10. [MISSING STALENESS CHECKS IN THE CHAINLINK.LATESTROUNDDATA() CALLS](https://solodit.xyz/issues/missing-staleness-checks-in-the-chainlinklatestrounddata-calls-halborn-none-lybra-finance-v2-security-assessment-pdf)
 11. [Oracle May Return Outdated Nav Information](https://certificate.quantstamp.com/full/solv-protocol-solv-btc/1eca9413-0b03-4b7d-9885-e5373ee2d722/index.html#findings-qs2)
 12. [[M] Attackers Can Profit by Creating Repeated Long or Short Positions Using Known Oracle Prices](https://certificate.quantstamp.com/full/storm-trade/21e4074a-b2cb-409d-b5df-48f683d0e8f3/index.html#findings-qs1) ---> Exploit Scenario
+13. [Perpetual Future DEX] [[H] Attackers Can Profit by Creating Repeated Long or Short Positions Using Known Oracle Prices
+](https://certificate.quantstamp.com/full/storm-trade/21e4074a-b2cb-409d-b5df-48f683d0e8f3/index.html#findings-qs1)
 
 ### Decimal
 1. [Interest accrued could be zero for small decimal tokens](https://github.com/code-423n4/2022-03-sublime-findings/issues/10)
