@@ -231,10 +231,13 @@ Simply want to collect reports which i read day in and out.
 
 ### Dynamic Thinking 
 1. [The user index is not updated if the computed reward is zero](https://github.com/SCV-Security/PublicReports/blob/19e1f50e43251f8feb07434e5c3a1067d0070454/Eris%20Protocol%2FERIS%20-%20Contracts%20ve3%20-%20Audit%20Report%20v1.0.pdf)
-2. [Locking and Vesting] [LOCKINGADDRESS is never populated which will block rebasing functionality](https://github.com/oak-security/audit-reports/blob/master/Comdex/2022-10-28%20Audit%20Report%20-%20Comdex%20Locking%20and%20Vesting%20Contracts%20v1.0.pdf)
 
 ### Rounding
 1. [Users might receive more funds due to rounding issue](https://github.com/SCV-Security/PublicReports/blob/19e1f50e43251f8feb07434e5c3a1067d0070454/Eris%20Protocol%2FERIS%20-%20Contracts%20ve3%20-%20Audit%20Report%20v1.0.pdf)
+
+### Unsaved Storage Change
+1. [Locking and Vesting] [[C] LOCKINGADDRESS is never populated which will block rebasing functionality](https://github.com/oak-security/audit-reports/blob/master/Comdex/2022-10-28%20Audit%20Report%20-%20Comdex%20Locking%20and%20Vesting%20Contracts%20v1.0.pdf)
+2. [[L] [STATE updated not saved]](https://github.com/oak-security/audit-reports/blob/master/Prism/2022-11-04%20Audit%20Report%20-%20Prism%20Auto%20Compounding%20cAsset%20v1.0.pdf)
 
 ### Conditional 
 1. [[L] pool.rs - Off by one error in create_position function](https://github.com/fluidity-money/long.so/blob/development/audits/hashlock.pdf)
