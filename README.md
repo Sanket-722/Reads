@@ -245,10 +245,11 @@ Simply want to collect reports which i read day in and out.
 2. [[L] pool.rs - Production code should not panic](https://github.com/fluidity-money/long.so/blob/development/audits/hashlock.pdf)
 3. [[L] lib.rs - exchange function might be error prone](https://github.com/fluidity-money/long.so/blob/development/audits/hashlock.pdf)
 
-### CosmWasm 
+### CosmWasm
 1. [[M] Incorrect permissioning of IbcExecuteProposal execution leads to failure of proposal execution and elevated owner privileges
-]([url](https://github.com/oak-security/audit-reports/blob/master/Astroport/2023-02-14%20Audit%20Report%20-%20Astroport%20IBC%20v1.0.pdf))
-
+](https://github.com/oak-security/audit-reports/blob/master/Astroport/2023-02-14%20Audit%20Report%20-%20Astroport%20IBC%20v1.0.pdf)
+2. [[M] Emergency ShutDownVamms messages are not able to execute SetOpen transactions due to lack of permissions
+](https://github.com/oak-security/audit-reports/blob/master/Margined%20Protocol/2022-10-28%20Audit%20Report%20-%20Margined%20Protocol%20Perpetuals%20v1.0.pdf)
 
 # Pentest Web3.0 Projects
 
