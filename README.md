@@ -250,6 +250,7 @@ Simply want to collect reports which i read day in and out.
 ](https://github.com/oak-security/audit-reports/blob/master/Astroport/2023-02-14%20Audit%20Report%20-%20Astroport%20IBC%20v1.0.pdf)
 2. [[M] Emergency ShutDownVamms messages are not able to execute SetOpen transactions due to lack of permissions
 ](https://github.com/oak-security/audit-reports/blob/master/Margined%20Protocol/2022-10-28%20Audit%20Report%20-%20Margined%20Protocol%20Perpetuals%20v1.0.pdf)
+3. [Address Validation Bug] [[C] Attacker can bypass self-call validation.](https://github.com/oak-security/audit-reports/blob/master/CronCat/2023-03-14%20Audit%20Report%20-%20CronCat%20CosmWasm%20v1.0.pdf)
 
 # Pentest Web3.0 Projects
 
