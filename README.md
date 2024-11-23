@@ -259,6 +259,7 @@ Simply want to collect reports which i read day in and out.
 8. [Rounding issues] [[H] Attackers can cause a consensus failure by sending coins through IBC.](https://github.com/oak-security/audit-reports/blob/master/Noble/2023-07-08%20Audit%20Report%20-%20Noble%20Tariff%20Module%20v1.0.pdf)
 9. [[C] User can incentivize pools without supplying native tokens.](https://github.com/oak-security/audit-reports/blob/main/Astroport/2024-01-11%20Audit%20Report%20-%20Astroport%20Incentives%20v1.0.pdf)
 10. [Funds Steal] [[C] User can claim excessive rewards by specifing dubplicate Liquidity tokens](https://github.com/oak-security/audit-reports/blob/main/Astroport/2024-01-11%20Audit%20Report%20-%20Astroport%20Incentives%20v1.0.pdf)
+11. [Reward Calculation issue] [[C] Possibly incorrect reward calculations for new reward schedules](https://github.com/oak-security/audit-reports/blob/main/Astroport/2024-01-11%20Audit%20Report%20-%20Astroport%20Incentives%20v1.0.pdf)
 
 
 # Pentest Web3.0 Projects
