@@ -256,6 +256,9 @@ Simply want to collect reports which i read day in and out.
 ](https://github.com/oak-security/audit-reports/blob/master/Astroport/2022-01-20%20Audit%20Report%20-%20Astroport%20v1.0.pdf)
 6. [Rounding issues] [[C] Multiple rounding issues may cause zero rewards to be distributed.](https://github.com/oak-security/audit-reports/blob/master/Comdex/2022-10-28%20Audit%20Report%20-%20Comdex%20Locking%20and%20Vesting%20Contracts%20v1.0.pdf)
 7. [Rounding issues] [[H] Possible inconsistencies when configuring decimal values.](https://github.com/oak-security/audit-reports/blob/master/Margined%20Protocol/2022-10-28%20Audit%20Report%20-%20Margined%20Protocol%20Perpetuals%20v1.0.pdf)
+8. [Rounding issues] [[H] Attackers can cause a consensus failure by sending coins through IBC.](https://github.com/oak-security/audit-reports/blob/master/Noble/2023-07-08%20Audit%20Report%20-%20Noble%20Tariff%20Module%20v1.0.pdf)
+9. [[C] User can incentivize pools without supplying native tokens.](https://github.com/oak-security/audit-reports/blob/main/Astroport/2024-01-11%20Audit%20Report%20-%20Astroport%20Incentives%20v1.0.pdf)
+10. [Funds Steal] [[C] User can claim excessive rewards by specifing dubplicate Liquidity tokens](https://github.com/oak-security/audit-reports/blob/main/Astroport/2024-01-11%20Audit%20Report%20-%20Astroport%20Incentives%20v1.0.pdf)
 
 
 # Pentest Web3.0 Projects
