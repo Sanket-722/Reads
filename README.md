@@ -270,3 +270,9 @@ Simply want to collect reports which i read day in and out.
 3. [[M] Lack of Rate Limiting](https://github.com/Quillhash/QuillAudit_Reports/blob/master/TWallet%20Pentest%20Audit%20Report%20-%20QuillAudits.pdf)
 4. [[M] Lack of Authentication in API Endpoints](https://github.com/Quillhash/QuillAudit_Reports/blob/master/TWallet%20Pentest%20Audit%20Report%20-%20QuillAudits.pdf)
 5. [[M] Id param issue in 'get_Notiﬁcation_By_Id'](https://github.com/Quillhash/QuillAudit_Reports/blob/master/TWallet%20Pentest%20Audit%20Report%20-%20QuillAudits.pdf)
+
+
+
+Good Blogs and Tweets Section :
+1. [https://mixbytes.io/blog/overview-of-the-inflation-attack](https://mixbytes.io/blog/overview-of-the-inflation-attack)
+2. 
