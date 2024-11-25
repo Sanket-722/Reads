@@ -260,6 +260,7 @@ Simply want to collect reports which i read day in and out.
 9. [[C] User can incentivize pools without supplying native tokens.](https://github.com/oak-security/audit-reports/blob/main/Astroport/2024-01-11%20Audit%20Report%20-%20Astroport%20Incentives%20v1.0.pdf)
 10. [Funds Steal] [[C] User can claim excessive rewards by specifing dubplicate Liquidity tokens](https://github.com/oak-security/audit-reports/blob/main/Astroport/2024-01-11%20Audit%20Report%20-%20Astroport%20Incentives%20v1.0.pdf)
 11. [Reward Calculation issue] [[C] Possibly incorrect reward calculations for new reward schedules](https://github.com/oak-security/audit-reports/blob/main/Astroport/2024-01-11%20Audit%20Report%20-%20Astroport%20Incentives%20v1.0.pdf)
+12. [Address Validation Bug] [C][Invalid user-provided addresses can lock the contract](https://github.com/oak-security/audit-reports/blob/main/Ninja%20Blaze/2024-05-06%20Audit%20Report%20-%20Ninja%20Blaze%20Double%20v1.0.pdf)
 
 
 # Pentest Web3.0 Projects
@@ -273,7 +274,7 @@ Simply want to collect reports which i read day in and out.
 
 
 
-Good Blogs and Tweets Section :
+# Good Blogs and Tweets Section :
+SOLIDITY : 
 1. [https://mixbytes.io/blog/overview-of-the-inflation-attack](https://mixbytes.io/blog/overview-of-the-inflation-attack)
 2. [https://x.com/kankodu/status/1771229163942474096](https://x.com/kankodu/status/1771229163942474096)
-3. 
