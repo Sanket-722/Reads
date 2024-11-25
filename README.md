@@ -198,12 +198,13 @@ Simply want to collect reports which i read day in and out.
 10. [ENS] [[H] ETHRegistrarController.register is vulnerable to front running](https://consensys.io/diligence/audits/2019/03/ens-permanent-registrar/#ethregistrarcontrollerregister-is-vulnerable-to-front-running)
 11. [ERC-20 Staking][[H] Race condition on ERC20 approval](https://github.com/code-423n4/2022-01-timeswap-findings/issues/168)
    
-### EIP712
+### NFT
 1. [Replay attack in case of Hard fork](https://github.com/code-423n4/2022-07-golom-findings/issues/391)
 2. [If name is changed then the domain seperator would be wrong](https://github.com/code-423n4/2023-01-reserve-findings/issues/211)
 3. [encodedData argument of hashStruct is not calculated perfectly for EIP712 singed messages in CultureIndex.sol](https://github.com/code-423n4/2023-12-revolutionprotocol-findings/issues/77)
 4. [The tokenURI method does not check if the NFT has been minted and returns data for the contract that may be a fake NFT.](https://solodit.xyz/issues/m-02-violation-of-erc-721-standard-in-verbstokentokenuri-implementation-code4rena-collective-collective-git)
 5. [Violation of ERC-721 Standard in VerbsToken:tokenURI Implementation](https://github.com/code-423n4/2023-04-caviar-findings/issues/44)
+6. [Base URI Is Not Being Overridden for any of the protocal NFTs](https://github.com/CollarNetworks/protocol-core/blob/develop/audits/2024-oct-cantinacode-solo-1.pdf)
 
 ### ERC-3525
 1. [[H] Attacker Can Drain Value From Contract](https://certificate.quantstamp.com/full/solv-protocol-solv-btc/1eca9413-0b03-4b7d-9885-e5373ee2d722/index.html#findings-qs1)
