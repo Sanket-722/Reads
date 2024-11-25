@@ -261,7 +261,7 @@ Simply want to collect reports which i read day in and out.
 10. [Funds Steal] [[C] User can claim excessive rewards by specifing dubplicate Liquidity tokens](https://github.com/oak-security/audit-reports/blob/main/Astroport/2024-01-11%20Audit%20Report%20-%20Astroport%20Incentives%20v1.0.pdf)
 11. [Reward Calculation issue] [[C] Possibly incorrect reward calculations for new reward schedules](https://github.com/oak-security/audit-reports/blob/main/Astroport/2024-01-11%20Audit%20Report%20-%20Astroport%20Incentives%20v1.0.pdf)
 12. [Address Validation Bug] [C][Invalid user-provided addresses can lock the contract](https://github.com/oak-security/audit-reports/blob/main/Ninja%20Blaze/2024-05-06%20Audit%20Report%20-%20Ninja%20Blaze%20Double%20v1.0.pdf)
-
+13. [ A game can be drawn multiple times in the same round, resulting in a jackpot reset and locked funds in the contract](https://github.com/oak-security/audit-reports/blob/main/Ninja%20Blaze/2024-05-06%20Audit%20Report%20-%20Ninja%20Blaze%20Double%20v1.0.pdf)
 
 # Pentest Web3.0 Projects
 
