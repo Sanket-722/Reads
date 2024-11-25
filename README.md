@@ -275,4 +275,5 @@ Simply want to collect reports which i read day in and out.
 
 Good Blogs and Tweets Section :
 1. [https://mixbytes.io/blog/overview-of-the-inflation-attack](https://mixbytes.io/blog/overview-of-the-inflation-attack)
-2. 
+2. [https://x.com/kankodu/status/1771229163942474096](https://x.com/kankodu/status/1771229163942474096)
+3. 
