@@ -38,6 +38,7 @@ Simply want to collect reports which i read day in and out.
 1. [[M] !_account.isContract() can be bypassed](https://github.com/code-423n4/2022-04-jpegd-findings/issues/128)
 2. [Passing multiple ETH deposits in orders array will use the same `msg.value` many times](https://solodit.xyz/issues/m-08-passing-multiple-eth-deposits-in-orders-array-will-use-the-same-msgvalue-many-times-code4rena-nested-finance-nested-finance-contest-git)
 3. [Incorrect Revert Condition in submitBatch()](https://certificate.quantstamp.com/full/tensorplex-labs/fac85f03-dfa2-4f47-88d6-732ed5ea9360/index.html#findings-qs4)
+4. [Token Bridge] [C][Missing Support for Updating Both the updateVerifier and the newValidators](https://certificate.quantstamp.com/full/sonic-gateway/fbb78575-2a22-4f4b-813f-340eb6296185/index.html#findings-qs1)
 
 ### Functional 
 1. [[M] Unsafe call to `ERC20::transfer` can result in stuck funds.](https://solodit.xyz/issues/m-01-unsafe-call-to-erc20transfer-can-result-in-stuck-funds-pashov-none-zerem-markdown) 
