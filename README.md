@@ -115,8 +115,6 @@ Simply want to collect reports which i read day in and out.
 3. [M] [Governance Voting Dis-proportionally Favours Users Who Stake And Vote After A Poll Has Been Created And Had Its Snapshot Taken
 ](https://solodit.xyz/issues/m-03-governance-voting-dis-proportionally-favours-users-who-stake-and-vote-after-a-poll-has-been-created-and-had-its-snapshot-taken-code4rena-anchor-anchor-contest-git)
 
-
-
 ### Math
 1. [Permanent freeze of vested tokens due to overflow in _baseVestedAmount](https://github.com/code-423n4/2022-09-vtvl-findings/issues/95)
 2. [Lack of sanity check on _initialTokenSupply and _initialTokenPrice can lead to a seller losing his NFT](https://github.com/code-423n4/2022-06-nibbl-findings/issues/24)
@@ -133,7 +131,6 @@ Simply want to collect reports which i read day in and out.
 2. [[M] Precision Loss](https://certificate.quantstamp.com/full/net-mind/e7dfdc3c-7589-4fc8-b3d8-4872c783a735/index.html#findings-qs12)
 3. [[M]Loss of Precision Due to Division Before Multiplication](https://certificate.quantstamp.com/full/oasis-swap/878751e5-152a-4dae-9353-c9cd2acaedcf/index.html#findings-qs3)
 4. [Staking] [[M] Users Can Lose Out on Rewards if They Claim Too Frequently](https://certificate.quantstamp.com/full/zero-staking/40ffa176-7b8d-43ec-a7e2-29732c12f21e/index.html#findings-qs3)
-
 
 ### AMM
 1. [block.timestamp or deadline ](https://solodit.xyz/issues/m-06-blocktimestamp-or-deadline-code4rena-amun-amun-contest-git)
@@ -169,6 +166,8 @@ Simply want to collect reports which i read day in and out.
 1. [Liquid Stacking] [[H] MozToken allows owner to mint an arbitrary amount of tokens, although supply is fixed](https://solodit.xyz/issues/trst-m-7-moztoken-allows-owner-to-mint-an-arbitrary-amount-of-tokens-although-supply-is-fixed-trust-security-none-mozaic-archimedes-markdown_)
 2. [Liquid Stacking] [[M] possibility of minting rJOE tokens before ownership is changed to RocketJoeStaking](https://solodit.xyz/issues/m-06-possibility-of-minting-rjoe-tokens-before-ownership-is-changed-to-rocketjoestaking-code4rena-trader-joe-trader-joe-contest-git)
 
+### Fund Loss
+1. [Token Bridge] [M][Funds Could Be Stolen While the Bridge or Sonic Chain Are Dead](https://certificate.quantstamp.com/full/sonic-gateway/fbb78575-2a22-4f4b-813f-340eb6296185/index.html#findings-qs2)
 
 ### Other 
 1. [Incorrect hardcoded address](https://solodit.xyz/issues/incorrect-hardcoded-address-mixbytes-none-barter-dao-markdown)
@@ -185,6 +184,7 @@ Simply want to collect reports which i read day in and out.
 12. [Node Stacking] [Re-org attack in factory](https://solodit.xyz/issues/m-14-re-org-attack-in-factory-code4rena-frankencoin-frankencoin-git)
 13. [Node Stacking] [Create methods are suspicious of the reorg attack](https://solodit.xyz/issues/m-09-create-methods-are-suspicious-of-the-reorg-attack-code4rena-pooltogether-pooltogether-git)
 14. [Node Stacking] [[H] Unable to claim vesting due to unbounded timelock loop](https://solodit.xyz/issues/h-08-unable-to-claim-vesting-due-to-unbounded-timelock-loop-code4rena-boot-finance-boot-finance-contest-git)
+15. [Token Bridge] [M][Missing Support for Automatic Rebasing Tokens](https://certificate.quantstamp.com/full/sonic-gateway/fbb78575-2a22-4f4b-813f-340eb6296185/index.html#findings-qs4) ---> Exploit Scenario
 
 ### ERC20
 1. [Transfer token without user approval](https://github.com/Quillhash/QuillAudit_Reports/blob/master/AntiGravity%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf)
