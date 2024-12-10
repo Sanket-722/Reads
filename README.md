@@ -265,6 +265,9 @@ Simply want to collect reports which i read day in and out.
 12. [Address Validation Bug] [C][Invalid user-provided addresses can lock the contract](https://github.com/oak-security/audit-reports/blob/main/Ninja%20Blaze/2024-05-06%20Audit%20Report%20-%20Ninja%20Blaze%20Double%20v1.0.pdf)
 13. [ A game can be drawn multiple times in the same round, resulting in a jackpot reset and locked funds in the contract](https://github.com/oak-security/audit-reports/blob/main/Ninja%20Blaze/2024-05-06%20Audit%20Report%20-%20Ninja%20Blaze%20Double%20v1.0.pdf)
 14. [[M] Liquidity Token price source does not work osmosis pool](https://github.com/oak-security/audit-reports/blob/main/Abstract/2023-05-09%20Audit%20Report%20-%20Abstract%20Module%20Bases%2C%20Proxy%20and%20Manager%20Contracts%20v1.0.pdf)
+15. [[C] Meta transactions can be replayed across contracts and networks](https://github.com/oak-security/audit-reports/blob/main/Alice/Audit%20Report%20-%20Alice.pdf)
+16. [[C] Execute deposit stable function uses relayer’s funds instead of user’s funds](https://github.com/oak-security/audit-reports/blob/main/Alice/Audit%20Report%20-%20Alice.pdf)
+17. [[M] Anchor exchange rate used might be out of date due to missing block height argument](https://github.com/oak-security/audit-reports/blob/main/Alice/Audit%20Report%20-%20Alice.pdf)
 
 # Pentest Web3.0 Projects
 
