@@ -268,6 +268,7 @@ Simply want to collect reports which i read day in and out.
 15. [[C] Meta transactions can be replayed across contracts and networks](https://github.com/oak-security/audit-reports/blob/main/Alice/Audit%20Report%20-%20Alice.pdf)
 16. [[C] Execute deposit stable function uses relayer’s funds instead of user’s funds](https://github.com/oak-security/audit-reports/blob/main/Alice/Audit%20Report%20-%20Alice.pdf)
 17. [[M] Anchor exchange rate used might be out of date due to missing block height argument](https://github.com/oak-security/audit-reports/blob/main/Alice/Audit%20Report%20-%20Alice.pdf)
+18. [[M] Iteration over farming plans in end blocker can be exploited to halt block production](https://github.com/oak-security/audit-reports/blob/main/All%20in%20Bits/2022-04-04%20Audit%20Report%20-%20Budget%20and%20Farming%20Cosmos%20SDK%20Modules%20v1.0.pdf)
 
 # Pentest Web3.0 Projects
 
