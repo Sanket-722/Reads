@@ -228,7 +228,8 @@ Simply want to collect reports which i read day in and out.
 2. [Staking] [[L] Missing Conversion to Gwei](https://certificate.quantstamp.com/full/liquid-collective-lceth/727416a8-3cf6-46fb-a103-701d5c94649e/index.html#findings-qs4)
 
 ### Dos
-1. [Staking] [[M] Potential Denial of Service in Report Generation Due to Underflow](https://certificate.quantstamp.com/full/liquid-collective-lceth/727416a8-3cf6-46fb-a103-701d5c94649e/index.html#findings-qs1) 
+1. [Staking] [[M] Potential Denial of Service in Report Generation Due to Underflow](https://certificate.quantstamp.com/full/liquid-collective-lceth/727416a8-3cf6-46fb-a103-701d5c94649e/index.html#findings-qs1)
+2. [Cosmos SDK ] [[C] Iteration over farming plans in end blocker can be exploited to halt block production ](https://github.com/oak-security/audit-reports/blob/main/All%20in%20Bits/2022-04-04%20Audit%20Report%20-%20Budget%20and%20Farming%20Cosmos%20SDK%20Modules%20v1.0.pdf)
 
 # Rust Reads
 
