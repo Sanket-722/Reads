@@ -185,7 +185,14 @@ Simply want to collect reports which i read day in and out.
 13. [Node Stacking] [Create methods are suspicious of the reorg attack](https://solodit.xyz/issues/m-09-create-methods-are-suspicious-of-the-reorg-attack-code4rena-pooltogether-pooltogether-git)
 14. [Node Stacking] [[H] Unable to claim vesting due to unbounded timelock loop](https://solodit.xyz/issues/h-08-unable-to-claim-vesting-due-to-unbounded-timelock-loop-code4rena-boot-finance-boot-finance-contest-git)
 15. [Token Bridge] [M][Missing Support for Automatic Rebasing Tokens](https://certificate.quantstamp.com/full/sonic-gateway/fbb78575-2a22-4f4b-813f-340eb6296185/index.html#findings-qs4) ---> Exploit Scenario
+16. [Farm][[H] Inflation attack can cause early users to lose their deposit](https://solodit.cyfrin.io/issues/inflation-attack-can-cause-early-users-to-lose-their-deposit-cyfrin-none-cyfrin-stakepet-markdown)
+17. [Yield][[H] Attackers can use a malicious yield token to steal funds from users](https://solodit.cyfrin.io/issues/attackers-can-use-a-malicious-yield-token-to-steal-funds-from-users-cyfrin-none-cyfrin-stakepet-markdown)
+18. [Liquid Stacking][[H] Deposit uses operator collateral](https://solodit.cyfrin.io/issues/h01-deposit-uses-operator-collateral-openzeppelin-pooltogether-pods-audit-markdown)
+19. [Liquid Stacking][[C] Supply is manipulable](https://solodit.cyfrin.io/issues/c01-supply-is-manipulable-openzeppelin-pooltogether-pods-audit-markdown)
 
+
+
+    
 ### ERC20
 1. [Transfer token without user approval](https://github.com/Quillhash/QuillAudit_Reports/blob/master/AntiGravity%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf)
 2. [Potential locking of funds due to non standard ERC20 transfers](https://github.com/Quillhash/QuillAudit_Reports/blob/master/LivaatVerse%20Smart%20Contracts%20Audit%20Report%20-%20QuillAudits.pdf)
