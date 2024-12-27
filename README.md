@@ -221,6 +221,9 @@ Simply want to collect reports which i read day in and out.
 1. [[M] Protocol can break for a token with a proxy and implementation contract (like `TUSD`)](https://solodit.xyz/issues/protocol-can-break-for-a-token-with-a-proxy-and-implementation-contract-like-tusd-codehawks-foundry-defi-stablecoin-codehawks-audit-contest-git)
 2. [[M] Missing approve(0)](https://solodit.xyz/issues/m-08-missing-approve0-code4rena-sublime-sublime-contest-git)
 3. [[H] Unsafe handling of underlying tokens ](https://solodit.xyz/issues/h-01-unsafe-handling-of-underlying-tokens-code4rena-swivel-swivel-contest-git)
+
+### LayerZero
+1. [[H] Malicious user can use an excessively large _toAddress in OFTCore#sendFrom to break layerZero communication](https://solodit.cyfrin.io/issues/h-2-malicious-user-can-use-an-excessively-large-_toaddress-in-oftcoresendfrom-to-break-layerzero-communication-sherlock-uxd-uxd-protocol-git)
    
 # Go Reads 
 
