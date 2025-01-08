@@ -157,6 +157,7 @@ Simply want to collect reports which i read day in and out.
 7. [[L] Source Chain ID in a Submitted Batch Can Be Modified](https://certificate.quantstamp.com/full/tensorplex-labs/fac85f03-dfa2-4f47-88d6-732ed5ea9360/index.html#findings-qs6)
 8. [[H] BRIDGENFT CALL CAN BE FRONTRUN](https://solodit.cyfrin.io/issues/bridgenft-call-can-be-frontrun-halborn-gains-trade-pdf)
 9. [[H] MozBridge underestimates gas for sending of Moz messages](https://solodit.cyfrin.io/issues/trst-m-10-mozbridge-underestimates-gas-for-sending-of-moz-messages-trust-security-none-mozaic-archimedes-markdown_)
+10. [[H] Attacker can block LayerZero channel](https://github.com/code-423n4/2022-05-velodrome-findings/issues/83)
 
     
 ### Replay 
