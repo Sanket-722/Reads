@@ -161,7 +161,7 @@ Simply want to collect reports which i read day in and out.
 11. [LayerZero][[H] Attacker can block LayerZero channel due to variable gas cost of saving payload](https://solodit.cyfrin.io/issues/h-16-attacker-can-block-layerzero-channel-due-to-variable-gas-cost-of-saving-payload-code4rena-tapioca-dao-tapioca-dao-git)
 12. [LayerZero][[H] Attacker can block LayerZero channel due to missing check of minimum gas passed](https://github.com/code-423n4/2023-07-tapioca-findings/issues/1207)
 13. [LayerZero][[H] Refund mechanism for failed cross-chain transactions does not work](https://github.com/code-423n4/2023-07-tapioca-findings/issues/1163)
-
+14. [Bridge] [Legacy withdrawals can be relayed twice, causing double spending of bridged assets](https://github.com/sherlock-audit/2023-03-optimism-judging/issues/87)
 
     
 ### Replay 
