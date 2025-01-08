@@ -156,7 +156,9 @@ Simply want to collect reports which i read day in and out.
 6. [Loss of Funds if Unsupported Chain ID Specified](https://certificate.quantstamp.com/full/tensorplex-labs/fac85f03-dfa2-4f47-88d6-732ed5ea9360/index.html#findings-qs3)
 7. [[L] Source Chain ID in a Submitted Batch Can Be Modified](https://certificate.quantstamp.com/full/tensorplex-labs/fac85f03-dfa2-4f47-88d6-732ed5ea9360/index.html#findings-qs6)
 8. [[H] BRIDGENFT CALL CAN BE FRONTRUN](https://solodit.cyfrin.io/issues/bridgenft-call-can-be-frontrun-halborn-gains-trade-pdf)
+9. [[H] MozBridge underestimates gas for sending of Moz messages](https://solodit.cyfrin.io/issues/trst-m-10-mozbridge-underestimates-gas-for-sending-of-moz-messages-trust-security-none-mozaic-archimedes-markdown_)
 
+    
 ### Replay 
 1. [Signature Replay](https://certificate.quantstamp.com/full/net-mind/e7dfdc3c-7589-4fc8-b3d8-4872c783a735/index.html#findings-qs1)
 2. [[M] Replay Attack to Close or Open Market Unexpectedly](https://certificate.quantstamp.com/full/storm-trade/21e4074a-b2cb-409d-b5df-48f683d0e8f3/index.html#findings-qs2)
