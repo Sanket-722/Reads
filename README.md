@@ -155,11 +155,12 @@ Simply want to collect reports which i read day in and out.
 5. [MintCap Check Missing in Cross-Chain Transfer](https://solodit.xyz/issues/mintcap-check-missing-in-cross-chain-transfer-mixbytes-none-dforce-markdown)
 6. [Loss of Funds if Unsupported Chain ID Specified](https://certificate.quantstamp.com/full/tensorplex-labs/fac85f03-dfa2-4f47-88d6-732ed5ea9360/index.html#findings-qs3)
 7. [[L] Source Chain ID in a Submitted Batch Can Be Modified](https://certificate.quantstamp.com/full/tensorplex-labs/fac85f03-dfa2-4f47-88d6-732ed5ea9360/index.html#findings-qs6)
-8. [[H] BRIDGENFT CALL CAN BE FRONTRUN](https://solodit.cyfrin.io/issues/bridgenft-call-can-be-frontrun-halborn-gains-trade-pdf)
-9. [[H] MozBridge underestimates gas for sending of Moz messages](https://solodit.cyfrin.io/issues/trst-m-10-mozbridge-underestimates-gas-for-sending-of-moz-messages-trust-security-none-mozaic-archimedes-markdown_)
-10. [[H] Attacker can block LayerZero channel](https://github.com/code-423n4/2022-05-velodrome-findings/issues/83)
-11. [[H] Attacker can block LayerZero channel due to variable gas cost of saving payload](https://solodit.cyfrin.io/issues/h-16-attacker-can-block-layerzero-channel-due-to-variable-gas-cost-of-saving-payload-code4rena-tapioca-dao-tapioca-dao-git)
-12. [[H] Attacker can block LayerZero channel due to missing check of minimum gas passed](https://github.com/code-423n4/2023-07-tapioca-findings/issues/1207)
+8. [LayerZero][[H] BRIDGENFT CALL CAN BE FRONTRUN](https://solodit.cyfrin.io/issues/bridgenft-call-can-be-frontrun-halborn-gains-trade-pdf)
+9. [LayerZero][[H] MozBridge underestimates gas for sending of Moz messages](https://solodit.cyfrin.io/issues/trst-m-10-mozbridge-underestimates-gas-for-sending-of-moz-messages-trust-security-none-mozaic-archimedes-markdown_)
+10. [LayerZero][[H] Attacker can block LayerZero channel](https://github.com/code-423n4/2022-05-velodrome-findings/issues/83)
+11. [LayerZero][[H] Attacker can block LayerZero channel due to variable gas cost of saving payload](https://solodit.cyfrin.io/issues/h-16-attacker-can-block-layerzero-channel-due-to-variable-gas-cost-of-saving-payload-code4rena-tapioca-dao-tapioca-dao-git)
+12. [LayerZero][[H] Attacker can block LayerZero channel due to missing check of minimum gas passed](https://github.com/code-423n4/2023-07-tapioca-findings/issues/1207)
+13. [LayerZero][[H] Refund mechanism for failed cross-chain transactions does not work](https://github.com/code-423n4/2023-07-tapioca-findings/issues/1163)
 
 
     
